@@ -1,0 +1,2001 @@
+,job_title,experience_level,company_size,company_location,employment_type,remote_ratio,years_experience,salary_usd
+0,AI Engineer,Mid,Medium,UK,Full-time,50,9.0,98156.0
+1,Business Intelligence Analyst,Mid,Small,UK,Full-time,50,10.0,94402.0
+2,Data Analyst,Senior,Small,USA,Full-time,0,7.0,125787.0
+3,Business Intelligence Analyst,Senior,Medium,Canada,Full-time,0,12.0,154662.0
+4,Business Intelligence Analyst,Mid,Large,Canada,Part-time,50,4.0,79811.0
+5,Machine Learning Engineer,Entry,Medium,India,Full-time,0,3.0,30912.0
+6,Data Analyst,Entry,Small,India,Contract,50,12.0,70394.0
+7,Data Analyst,Entry,Large,Australia,Contract,0,8.0,64635.0
+8,Data Analyst,Mid,Small,Australia,Full-time,0,8.0,83597.0
+9,Business Intelligence Analyst,Mid,Large,India,Contract,100,0.0,50524.0
+10,AI Engineer,Mid,Small,Australia,Full-time,50,1.0,45329.0
+11,Data Analyst,Mid,Large,Germany,Contract,100,7.0,92156.0
+12,Data Engineer,Entry,Large,India,Contract,100,4.0,88269.0
+13,Business Intelligence Analyst,Mid,Small,Canada,Full-time,50,6.0,88171.0
+14,Machine Learning Engineer,Entry,Large,Germany,Full-time,50,0.0,19815.0
+15,AI Engineer,Mid,Medium,Australia,Part-time,0,11.0,88269.0
+16,Data Engineer,Entry,Small,UK,Full-time,50,9.0,56848.0
+17,Data Engineer,Senior,Medium,India,Full-time,100,11.0,136561.0
+18,Machine Learning Engineer,Entry,Small,India,Part-time,100,4.0,30773.0
+19,AI Engineer,Executive,Large,UK,Full-time,50,10.0,177311.0
+20,Business Intelligence Analyst,Mid,Large,Australia,Full-time,100,11.0,110203.0
+21,Data Scientist,Senior,Large,Canada,Part-time,0,7.0,108187.0
+22,AI Engineer,Mid,Small,India,Full-time,100,7.0,94290.0
+23,Machine Learning Engineer,Senior,Medium,UK,Full-time,0,11.0,88269.0
+24,Data Engineer,Senior,Medium,USA,Part-time,100,11.0,152131.0
+25,Business Intelligence Analyst,Mid,Small,India,Part-time,0,13.0,108973.0
+26,AI Engineer,Mid,Small,Australia,Contract,0,1.0,46615.0
+27,Data Scientist,Mid,Medium,India,Full-time,50,1.0,59550.0
+28,Data Scientist,Mid,Medium,Australia,Contract,0,8.0,90494.0
+29,Data Analyst,Entry,Medium,USA,Contract,50,12.0,75506.0
+30,Data Analyst,Mid,Medium,UK,Part-time,100,3.0,68054.0
+31,Machine Learning Engineer,Mid,Small,India,Full-time,100,3.0,68861.0
+32,AI Engineer,Mid,Small,India,Full-time,100,6.0,81587.0
+33,AI Engineer,Senior,Large,Australia,Part-time,0,9.0,138515.0
+34,Data Engineer,Mid,Medium,UK,Contract,100,9.0,90854.0
+35,Data Engineer,Executive,Large,UK,Part-time,100,12.0,196600.0
+36,Data Engineer,Entry,Small,USA,Full-time,50,7.0,32743.0
+37,Data Analyst,Mid,Small,Australia,Part-time,50,2.0,53774.0
+38,AI Engineer,Mid,Large,Australia,Full-time,100,2.0,88269.0
+39,AI Engineer,Mid,Medium,Germany,Contract,100,5.0,69429.0
+40,Data Scientist,Senior,Medium,Australia,Full-time,0,2.0,94606.0
+41,Data Analyst,Entry,Medium,India,Contract,0,10.0,64478.0
+42,Business Intelligence Analyst,Senior,Medium,USA,Contract,100,4.0,116076.0
+43,Data Analyst,Mid,Large,UK,Full-time,50,3.0,73280.0
+44,Business Intelligence Analyst,Mid,Large,Australia,Full-time,100,7.0,57366.0
+45,Data Scientist,Mid,Small,USA,Contract,0,7.0,79427.0
+46,Machine Learning Engineer,Mid,Medium,Australia,Part-time,50,13.0,118476.0
+47,AI Engineer,Mid,Medium,UK,Full-time,50,9.0,90361.0
+48,Data Scientist,Mid,Medium,Canada,Contract,0,2.0,50641.0
+49,AI Engineer,Entry,Large,UK,Contract,100,5.0,45085.0
+50,Data Engineer,Mid,Medium,UK,Part-time,100,12.0,119659.0
+51,Machine Learning Engineer,Entry,Large,UK,Full-time,100,14.0,84050.0
+52,Machine Learning Engineer,Mid,Medium,Australia,Contract,0,6.0,74553.0
+53,Data Scientist,Mid,Medium,Germany,Part-time,50,6.0,88688.0
+54,Machine Learning Engineer,Mid,Small,UK,Contract,0,1.0,88269.0
+55,Business Intelligence Analyst,Mid,Medium,India,Full-time,100,13.0,107056.0
+56,Machine Learning Engineer,Entry,Medium,India,Part-time,0,2.0,39192.0
+57,AI Engineer,Mid,Small,USA,Contract,50,11.0,104416.0
+58,AI Engineer,Mid,Large,Germany,Part-time,0,9.0,92226.0
+59,AI Engineer,Mid,Large,USA,Full-time,100,9.0,85886.0
+60,AI Engineer,Senior,Medium,India,Part-time,50,14.0,158584.0
+61,Business Intelligence Analyst,Entry,Large,India,Full-time,0,3.0,43830.0
+62,Data Analyst,Mid,Medium,Canada,Contract,0,6.0,81530.0
+63,Data Engineer,Mid,Small,UK,Full-time,50,1.0,48591.0
+64,Data Scientist,Mid,Small,India,Contract,50,2.0,68565.0
+65,AI Engineer,Entry,Medium,Australia,Contract,100,6.0,56738.0
+66,Machine Learning Engineer,Entry,Small,Australia,Full-time,50,6.0,42631.0
+67,AI Engineer,Senior,Small,USA,Contract,100,14.0,167905.0
+68,Machine Learning Engineer,Mid,Medium,USA,Part-time,0,9.0,104056.0
+69,Data Engineer,Mid,Medium,UK,Contract,100,2.0,61370.0
+70,Data Engineer,Mid,Small,UK,Full-time,0,11.0,113721.0
+71,Data Engineer,Mid,Large,Canada,Part-time,50,0.0,88269.0
+72,Machine Learning Engineer,Entry,Large,Germany,Part-time,0,11.0,67679.0
+73,AI Engineer,Mid,Medium,USA,Contract,50,2.0,54422.0
+74,Data Engineer,Mid,Medium,UK,Contract,0,4.0,67463.0
+75,Business Intelligence Analyst,Senior,Large,India,Full-time,0,6.0,119613.0
+76,Machine Learning Engineer,Entry,Small,UK,Part-time,0,3.0,42510.0
+77,Machine Learning Engineer,Mid,Large,India,Full-time,0,12.0,101780.0
+78,AI Engineer,Mid,Large,USA,Contract,100,12.0,109424.0
+79,Machine Learning Engineer,Mid,Large,India,Part-time,0,10.0,96571.0
+80,Machine Learning Engineer,Mid,Large,USA,Full-time,100,10.0,90825.0
+81,Data Engineer,Mid,Medium,Germany,Full-time,50,14.0,121155.0
+82,AI Engineer,Senior,Medium,Canada,Full-time,50,0.0,82395.0
+83,Data Engineer,Senior,Small,Australia,Full-time,100,5.0,88269.0
+84,Data Engineer,Mid,Small,Australia,Full-time,50,1.0,60779.0
+85,AI Engineer,Senior,Small,Australia,Part-time,50,11.0,140492.0
+86,Data Scientist,Mid,Small,India,Full-time,0,2.0,57111.0
+87,Data Engineer,Mid,Large,UK,Part-time,0,3.0,68087.0
+88,Business Intelligence Analyst,Entry,Medium,Australia,Full-time,0,5.0,44984.0
+89,Business Intelligence Analyst,Executive,Medium,Germany,Contract,100,5.0,151792.0
+90,Machine Learning Engineer,Entry,Small,Australia,Contract,100,6.0,59935.0
+91,Business Intelligence Analyst,Entry,Small,USA,Full-time,50,7.0,37711.0
+92,Machine Learning Engineer,Entry,Large,India,Contract,0,6.0,41565.0
+93,Data Scientist,Mid,Large,USA,Part-time,100,1.0,88269.0
+94,AI Engineer,Entry,Small,USA,Full-time,100,7.0,16459.0
+95,AI Engineer,Entry,Medium,USA,Part-time,0,11.0,69096.0
+96,AI Engineer,Entry,Medium,Canada,Full-time,100,9.0,56019.0
+97,Business Intelligence Analyst,Entry,Medium,India,Contract,0,7.0,54476.0
+98,Data Scientist,Mid,Small,UK,Part-time,50,0.0,48254.0
+99,Business Intelligence Analyst,Mid,Medium,India,Contract,50,7.0,106584.0
+100,Business Intelligence Analyst,Mid,Large,Germany,Contract,50,7.0,50965.0
+101,Data Scientist,Mid,Large,India,Full-time,0,10.0,101464.0
+102,Data Scientist,Mid,Small,Germany,Part-time,100,11.0,113653.0
+103,Data Scientist,Entry,Large,India,Contract,50,9.0,67439.0
+104,Data Scientist,Mid,Small,Canada,Full-time,50,5.0,69721.0
+105,AI Engineer,Executive,Medium,India,Full-time,50,0.0,128408.0
+106,Data Analyst,Mid,Medium,USA,Full-time,100,9.0,85195.0
+107,Data Analyst,Entry,Medium,Canada,Contract,100,2.0,23273.0
+108,Data Scientist,Mid,Large,Canada,Full-time,0,6.0,85330.0
+109,Data Analyst,Mid,Small,Australia,Part-time,50,11.0,105886.0
+110,Data Analyst,Mid,Medium,Australia,Part-time,100,7.0,78212.0
+111,Data Scientist,Entry,Small,India,Contract,0,3.0,27755.0
+112,Data Analyst,Entry,Medium,India,Part-time,50,11.0,82905.0
+113,Business Intelligence Analyst,Entry,Large,India,Full-time,100,2.0,21080.0
+114,Machine Learning Engineer,Senior,Large,USA,Contract,100,0.0,95501.0
+115,Machine Learning Engineer,Senior,Small,UK,Full-time,0,11.0,152105.0
+116,Data Scientist,Entry,Large,India,Contract,50,8.0,64047.0
+117,AI Engineer,Entry,Large,Australia,Contract,50,9.0,72946.0
+118,Data Scientist,Senior,Small,UK,Full-time,100,5.0,105639.0
+119,AI Engineer,Entry,Medium,USA,Part-time,50,5.0,47502.0
+120,Machine Learning Engineer,Entry,Large,UK,Part-time,0,8.0,55190.0
+121,Data Scientist,Executive,Small,Germany,Contract,100,0.0,123736.0
+122,Data Engineer,Entry,Large,UK,Full-time,100,5.0,51473.0
+123,Business Intelligence Analyst,Mid,Large,India,Full-time,0,11.0,96251.0
+124,Data Analyst,Executive,Large,USA,Contract,100,4.0,149294.0
+125,AI Engineer,Mid,Large,India,Part-time,50,12.0,116732.0
+126,Data Engineer,Entry,Small,Australia,Full-time,50,10.0,64052.0
+127,Data Analyst,Entry,Small,Germany,Part-time,100,14.0,99325.0
+128,Data Analyst,Senior,Small,Australia,Part-time,0,5.0,105271.0
+129,Data Scientist,Senior,Large,India,Contract,0,7.0,163414.0
+130,Data Analyst,Senior,Large,India,Contract,50,10.0,141698.0
+131,Business Intelligence Analyst,Entry,Large,India,Part-time,0,7.0,60889.0
+132,Data Engineer,Senior,Small,Canada,Full-time,100,4.0,109657.0
+133,Data Analyst,Senior,Large,Germany,Full-time,100,1.0,94387.0
+134,Data Scientist,Mid,Medium,India,Contract,50,11.0,111376.0
+135,Business Intelligence Analyst,Senior,Large,India,Part-time,50,11.0,146279.0
+136,Machine Learning Engineer,Senior,Medium,Australia,Full-time,50,1.0,97015.0
+137,Data Engineer,Mid,Large,Australia,Full-time,0,9.0,92041.0
+138,Data Analyst,Mid,Small,India,Contract,100,4.0,77510.0
+139,Data Scientist,Mid,Large,USA,Part-time,100,2.0,58708.0
+140,Machine Learning Engineer,Entry,Medium,Canada,Full-time,100,9.0,65857.0
+141,Machine Learning Engineer,Mid,Medium,Australia,Contract,50,2.0,59493.0
+142,AI Engineer,Mid,Large,USA,Full-time,100,7.0,83052.0
+143,Business Intelligence Analyst,Senior,Medium,India,Full-time,0,6.0,126995.0
+144,Data Analyst,Executive,Medium,India,Full-time,0,7.0,137133.0
+145,Data Scientist,Senior,Small,Germany,Contract,100,11.0,148580.0
+146,AI Engineer,Entry,Large,UK,Part-time,50,12.0,88240.0
+147,Business Intelligence Analyst,Entry,Large,UK,Contract,100,7.0,82910.0
+148,AI Engineer,Entry,Large,India,Part-time,0,4.0,40216.0
+149,Data Engineer,Mid,Medium,Australia,Full-time,0,8.0,86229.0
+150,Business Intelligence Analyst,Senior,Large,USA,Part-time,0,3.0,108343.0
+151,Business Intelligence Analyst,Senior,Large,Germany,Full-time,100,0.0,88269.0
+152,Data Analyst,Mid,Small,Canada,Full-time,0,7.0,90438.0
+153,Business Intelligence Analyst,Senior,Small,India,Contract,50,4.0,107865.0
+154,AI Engineer,Senior,Small,Germany,Full-time,100,1.0,101557.0
+155,Business Intelligence Analyst,Mid,Medium,Germany,Contract,100,14.0,122211.0
+156,Data Analyst,Senior,Large,Australia,Part-time,0,11.0,88269.0
+157,Data Analyst,Mid,Small,Canada,Part-time,0,0.0,43646.0
+158,Data Engineer,Entry,Small,Germany,Full-time,50,13.0,93747.0
+159,AI Engineer,Mid,Small,Australia,Contract,100,11.0,105048.0
+160,Machine Learning Engineer,Mid,Large,USA,Full-time,0,11.0,106344.0
+161,Machine Learning Engineer,Mid,Large,Australia,Contract,50,11.0,113280.0
+162,Business Intelligence Analyst,Mid,Large,India,Contract,0,2.0,59910.0
+163,Data Engineer,Mid,Medium,USA,Contract,100,8.0,81778.0
+164,Data Scientist,Mid,Medium,Germany,Part-time,0,0.0,52984.0
+165,Business Intelligence Analyst,Mid,Small,Australia,Contract,100,3.0,74441.0
+166,Data Engineer,Mid,Large,USA,Part-time,0,7.0,80190.0
+167,AI Engineer,Mid,Small,Canada,Contract,100,7.0,90304.0
+168,AI Engineer,Mid,Large,Germany,Part-time,50,9.0,91997.0
+169,AI Engineer,Entry,Large,Australia,Part-time,100,11.0,77020.0
+170,AI Engineer,Mid,Large,Australia,Part-time,50,10.0,94747.0
+171,AI Engineer,Entry,Medium,UK,Full-time,100,12.0,79286.0
+172,Data Engineer,Mid,Medium,Australia,Contract,50,10.0,90045.0
+173,Data Engineer,Senior,Large,Germany,Full-time,0,7.0,122758.0
+174,Data Analyst,Mid,Small,Canada,Contract,100,9.0,104585.0
+175,Machine Learning Engineer,Mid,Large,India,Contract,0,7.0,75455.0
+176,AI Engineer,Executive,Large,UK,Full-time,50,3.0,144854.0
+177,Data Scientist,Senior,Small,Germany,Part-time,100,7.0,134308.0
+178,Data Engineer,Senior,Large,USA,Contract,100,8.0,137349.0
+179,Data Scientist,Senior,Small,India,Part-time,0,6.0,111528.0
+180,Data Scientist,Entry,Medium,India,Full-time,100,13.0,77976.0
+181,Data Scientist,Entry,Medium,USA,Part-time,100,11.0,84455.0
+182,Data Analyst,Mid,Small,Australia,Contract,0,1.0,88269.0
+183,Data Engineer,Entry,Medium,India,Contract,100,8.0,56387.0
+184,Data Scientist,Mid,Medium,India,Contract,0,10.0,92521.0
+185,AI Engineer,Mid,Small,USA,Full-time,0,7.0,81525.0
+186,Business Intelligence Analyst,Mid,Medium,Australia,Contract,0,12.0,101126.0
+187,Data Scientist,Senior,Large,Australia,Full-time,0,4.0,113348.0
+188,Data Analyst,Senior,Large,USA,Part-time,0,14.0,88269.0
+189,Data Engineer,Mid,Small,Australia,Contract,50,11.0,111102.0
+190,Data Analyst,Senior,Medium,Australia,Contract,50,2.0,93404.0
+191,Data Scientist,Mid,Large,Germany,Contract,0,6.0,74492.0
+192,Data Engineer,Senior,Large,Germany,Part-time,50,13.0,147343.0
+193,Business Intelligence Analyst,Entry,Medium,USA,Contract,50,13.0,75106.0
+194,Data Scientist,Executive,Medium,Canada,Full-time,100,14.0,205195.0
+195,Data Analyst,Mid,Large,India,Part-time,0,1.0,58241.0
+196,Machine Learning Engineer,Mid,Large,Germany,Part-time,50,12.0,119538.0
+197,AI Engineer,Entry,Small,India,Part-time,100,2.0,32575.0
+198,Data Analyst,Mid,Small,UK,Part-time,100,11.0,99801.0
+199,Data Engineer,Entry,Large,India,Part-time,0,8.0,55580.0
+200,Data Scientist,Entry,Small,Canada,Full-time,0,3.0,41598.0
+201,AI Engineer,Mid,Large,UK,Part-time,100,3.0,60400.0
+202,Data Scientist,Mid,Large,UK,Contract,0,2.0,56875.0
+203,Data Engineer,Mid,Small,Australia,Part-time,0,4.0,68656.0
+204,Data Scientist,Senior,Small,UK,Part-time,100,2.0,96247.0
+205,Machine Learning Engineer,Mid,Medium,USA,Part-time,100,8.0,86177.0
+206,AI Engineer,Mid,Medium,Germany,Part-time,0,14.0,117269.0
+207,AI Engineer,Entry,Medium,USA,Part-time,50,2.0,34974.0
+208,Data Engineer,Senior,Large,Germany,Full-time,0,1.0,88269.0
+209,Machine Learning Engineer,Mid,Small,UK,Full-time,50,11.0,113756.0
+210,Data Analyst,Executive,Large,UK,Part-time,100,4.0,156167.0
+211,Data Scientist,Senior,Small,Canada,Full-time,50,5.0,115380.0
+212,Business Intelligence Analyst,Mid,Large,Germany,Contract,100,0.0,46617.0
+213,Data Scientist,Entry,Medium,India,Part-time,0,13.0,75303.0
+214,Data Scientist,Senior,Medium,Australia,Contract,0,11.0,147683.0
+215,Data Analyst,Senior,Medium,India,Contract,100,10.0,146717.0
+216,Data Scientist,Entry,Large,Canada,Part-time,100,5.0,46025.0
+217,Machine Learning Engineer,Entry,Small,USA,Contract,100,7.0,73715.0
+218,Machine Learning Engineer,Senior,Small,Canada,Contract,0,2.0,88269.0
+219,AI Engineer,Entry,Medium,India,Contract,0,3.0,25079.0
+220,Data Engineer,Senior,Medium,Germany,Part-time,50,5.0,108763.0
+221,Business Intelligence Analyst,Mid,Medium,USA,Part-time,100,7.0,85169.0
+222,Data Scientist,Entry,Medium,USA,Contract,50,14.0,97116.0
+223,Data Scientist,Senior,Small,Germany,Part-time,0,8.0,123976.0
+224,Data Analyst,Mid,Large,Canada,Part-time,50,5.0,82768.0
+225,Data Engineer,Mid,Large,UK,Contract,50,6.0,72124.0
+226,Machine Learning Engineer,Entry,Large,Canada,Part-time,0,14.0,86652.0
+227,Business Intelligence Analyst,Entry,Large,India,Full-time,0,13.0,88269.0
+228,AI Engineer,Mid,Medium,Australia,Part-time,100,4.0,67176.0
+229,Machine Learning Engineer,Mid,Medium,UK,Full-time,50,13.0,123676.0
+230,Data Engineer,Mid,Medium,Canada,Contract,0,11.0,107409.0
+231,AI Engineer,Senior,Large,Australia,Part-time,0,14.0,162319.0
+232,Data Analyst,Mid,Medium,Australia,Contract,50,8.0,80997.0
+233,Data Analyst,Entry,Medium,Germany,Contract,0,3.0,36001.0
+234,Data Scientist,Mid,Small,India,Contract,100,9.0,89664.0
+235,Data Engineer,Senior,Small,India,Contract,100,7.0,148741.0
+236,Business Intelligence Analyst,Senior,Medium,India,Contract,50,5.0,123063.0
+237,AI Engineer,Mid,Small,UK,Part-time,100,4.0,73117.0
+238,Machine Learning Engineer,Entry,Small,USA,Full-time,0,0.0,21231.0
+239,Data Engineer,Mid,Medium,UK,Part-time,0,4.0,67440.0
+240,Data Engineer,Senior,Medium,Canada,Part-time,0,12.0,159911.0
+241,Data Analyst,Senior,Medium,Australia,Part-time,0,4.0,111218.0
+242,Data Scientist,Mid,Medium,Australia,Part-time,50,13.0,120608.0
+243,Data Scientist,Senior,Large,USA,Full-time,100,8.0,139129.0
+244,AI Engineer,Senior,Large,Canada,Part-time,100,0.0,84090.0
+245,Data Analyst,Entry,Medium,USA,Contract,0,14.0,87471.0
+246,Data Engineer,Mid,Small,Australia,Part-time,50,4.0,63743.0
+247,Business Intelligence Analyst,Entry,Medium,UK,Part-time,0,14.0,90196.0
+248,Data Analyst,Entry,Medium,India,Full-time,0,6.0,47008.0
+249,AI Engineer,Senior,Small,Australia,Full-time,50,10.0,133324.0
+250,AI Engineer,Mid,Large,Germany,Contract,50,5.0,73632.0
+251,Data Analyst,Mid,Medium,India,Part-time,0,5.0,84641.0
+252,AI Engineer,Entry,Medium,Australia,Part-time,100,11.0,65226.0
+253,Data Analyst,Mid,Large,UK,Part-time,0,6.0,84863.0
+254,Machine Learning Engineer,Entry,Large,USA,Contract,100,5.0,51027.0
+255,Data Analyst,Entry,Small,India,Full-time,100,4.0,48785.0
+256,Data Analyst,Mid,Large,UK,Contract,50,9.0,89718.0
+257,AI Engineer,Entry,Large,Canada,Part-time,50,4.0,47408.0
+258,AI Engineer,Mid,Large,Germany,Full-time,0,8.0,85672.0
+259,Data Scientist,Entry,Small,India,Full-time,100,13.0,90262.0
+260,Data Scientist,Entry,Large,USA,Contract,100,7.0,62254.0
+261,Machine Learning Engineer,Entry,Large,Canada,Full-time,0,13.0,78199.0
+262,Data Scientist,Mid,Small,UK,Full-time,0,11.0,113129.0
+263,Data Analyst,Mid,Large,Germany,Part-time,0,14.0,115270.0
+264,AI Engineer,Mid,Large,USA,Part-time,50,9.0,97750.0
+265,Data Scientist,Mid,Small,UK,Full-time,0,13.0,112897.0
+266,Data Scientist,Senior,Medium,UK,Full-time,0,3.0,103664.0
+267,Machine Learning Engineer,Entry,Small,India,Contract,100,3.0,39892.0
+268,Data Engineer,Mid,Large,India,Contract,0,7.0,93271.0
+269,Machine Learning Engineer,Senior,Large,USA,Full-time,100,4.0,105158.0
+270,Data Analyst,Mid,Large,Australia,Part-time,100,12.0,112844.0
+271,AI Engineer,Mid,Small,Australia,Full-time,50,12.0,100589.0
+272,Machine Learning Engineer,Senior,Large,UK,Full-time,0,2.0,99552.0
+273,Data Scientist,Senior,Large,India,Part-time,0,14.0,166267.0
+274,AI Engineer,Entry,Small,Germany,Part-time,100,7.0,63268.0
+275,AI Engineer,Mid,Medium,Germany,Contract,50,6.0,86159.0
+276,Data Scientist,Mid,Medium,UK,Contract,50,4.0,74263.0
+277,Machine Learning Engineer,Mid,Large,India,Contract,0,9.0,90399.0
+278,Data Scientist,Mid,Small,USA,Contract,100,2.0,58503.0
+279,Data Engineer,Mid,Large,USA,Part-time,0,7.0,88269.0
+280,AI Engineer,Mid,Small,India,Full-time,0,4.0,88269.0
+281,Business Intelligence Analyst,Mid,Small,Germany,Contract,0,2.0,66417.0
+282,Business Intelligence Analyst,Senior,Medium,India,Contract,0,9.0,126841.0
+283,Data Analyst,Mid,Medium,India,Part-time,100,7.0,64481.0
+284,Data Scientist,Entry,Small,Germany,Part-time,50,0.0,11134.0
+285,Data Scientist,Mid,Large,USA,Full-time,0,5.0,88269.0
+286,Data Analyst,Entry,Medium,USA,Full-time,0,9.0,62771.0
+287,Data Analyst,Mid,Large,UK,Part-time,0,7.0,88269.0
+288,Data Analyst,Mid,Medium,Australia,Contract,0,3.0,63915.0
+289,AI Engineer,Entry,Medium,Canada,Contract,50,7.0,58898.0
+290,Data Engineer,Mid,Large,Australia,Contract,50,1.0,46913.0
+291,Data Scientist,Entry,Medium,India,Full-time,50,3.0,29297.0
+292,AI Engineer,Entry,Medium,India,Contract,50,14.0,81942.0
+293,Data Analyst,Mid,Large,India,Contract,0,1.0,62715.0
+294,Data Scientist,Mid,Medium,Australia,Part-time,100,0.0,40337.0
+295,AI Engineer,Executive,Medium,Canada,Contract,50,9.0,179256.0
+296,Data Engineer,Mid,Medium,UK,Part-time,50,12.0,110057.0
+297,AI Engineer,Mid,Large,Australia,Contract,0,12.0,108983.0
+298,Data Engineer,Mid,Small,Canada,Full-time,0,2.0,69995.0
+299,Data Analyst,Entry,Large,India,Contract,0,11.0,81283.0
+300,Data Engineer,Executive,Small,USA,Contract,0,7.0,158700.0
+301,Data Scientist,Mid,Medium,India,Part-time,100,5.0,77145.0
+302,Data Analyst,Senior,Small,Germany,Part-time,100,11.0,141118.0
+303,Data Scientist,Entry,Large,India,Part-time,50,6.0,88269.0
+304,Business Intelligence Analyst,Mid,Large,Germany,Contract,100,7.0,47122.0
+305,Machine Learning Engineer,Mid,Medium,Canada,Contract,50,5.0,76977.0
+306,Data Engineer,Senior,Small,USA,Full-time,50,13.0,153250.0
+307,Machine Learning Engineer,Entry,Medium,Australia,Contract,100,7.0,63446.0
+308,Machine Learning Engineer,Mid,Medium,Germany,Full-time,50,7.0,92638.0
+309,Data Engineer,Executive,Large,Canada,Part-time,0,3.0,138688.0
+310,Data Analyst,Mid,Small,USA,Part-time,50,5.0,68748.0
+311,Business Intelligence Analyst,Mid,Small,Australia,Part-time,0,13.0,111342.0
+312,Data Scientist,Entry,Small,Germany,Full-time,100,4.0,46275.0
+313,AI Engineer,Executive,Small,India,Contract,100,8.0,173665.0
+314,Data Scientist,Entry,Medium,India,Part-time,50,7.0,49130.0
+315,AI Engineer,Senior,Medium,India,Contract,0,1.0,88029.0
+316,Data Scientist,Senior,Large,Canada,Contract,50,11.0,154230.0
+317,Data Engineer,Entry,Medium,India,Part-time,100,12.0,83182.0
+318,Business Intelligence Analyst,Mid,Medium,UK,Full-time,50,6.0,74035.0
+319,AI Engineer,Entry,Large,USA,Contract,50,6.0,55127.0
+320,Data Analyst,Entry,Large,Canada,Part-time,0,10.0,62899.0
+321,Data Scientist,Senior,Large,Australia,Contract,100,13.0,154638.0
+322,Data Scientist,Senior,Medium,India,Contract,50,13.0,158222.0
+323,AI Engineer,Mid,Medium,USA,Contract,0,11.0,112296.0
+324,Data Analyst,Mid,Large,Germany,Contract,50,0.0,44242.0
+325,Data Analyst,Entry,Large,India,Contract,0,0.0,28095.0
+326,Data Engineer,Entry,Large,USA,Full-time,0,11.0,66439.0
+327,Data Engineer,Entry,Medium,UK,Full-time,50,3.0,30613.0
+328,Data Engineer,Entry,Medium,Germany,Part-time,100,4.0,35375.0
+329,Data Engineer,Mid,Small,UK,Full-time,100,7.0,118877.0
+330,Data Engineer,Mid,Medium,Australia,Full-time,0,3.0,57466.0
+331,Data Engineer,Mid,Medium,USA,Full-time,100,6.0,77824.0
+332,Business Intelligence Analyst,Entry,Medium,UK,Contract,0,2.0,32329.0
+333,Data Analyst,Mid,Large,Australia,Contract,100,6.0,81630.0
+334,Data Engineer,Senior,Medium,USA,Part-time,50,12.0,157349.0
+335,Data Analyst,Entry,Large,USA,Part-time,100,7.0,59203.0
+336,Data Analyst,Senior,Small,UK,Part-time,0,5.0,111928.0
+337,Machine Learning Engineer,Senior,Small,USA,Contract,0,5.0,114111.0
+338,Business Intelligence Analyst,Entry,Large,India,Full-time,100,7.0,53120.0
+339,Data Engineer,Senior,Large,USA,Full-time,50,7.0,126064.0
+340,Data Scientist,Mid,Large,Canada,Contract,0,6.0,87892.0
+341,AI Engineer,Mid,Medium,Australia,Part-time,0,5.0,74404.0
+342,Data Scientist,Mid,Small,USA,Part-time,0,5.0,65871.0
+343,Business Intelligence Analyst,Mid,Large,India,Part-time,0,9.0,97582.0
+344,AI Engineer,Mid,Medium,USA,Contract,0,10.0,90863.0
+345,Business Intelligence Analyst,Mid,Small,USA,Part-time,50,12.0,114883.0
+346,Data Analyst,Mid,Medium,UK,Part-time,100,12.0,112145.0
+347,AI Engineer,Mid,Small,India,Contract,50,5.0,68055.0
+348,Data Analyst,Mid,Medium,Australia,Full-time,50,7.0,87186.0
+349,Data Scientist,Senior,Small,India,Contract,0,0.0,82682.0
+350,Data Scientist,Entry,Small,Germany,Contract,50,4.0,42882.0
+351,AI Engineer,Entry,Medium,UK,Contract,0,2.0,25278.0
+352,AI Engineer,Senior,Large,UK,Contract,50,7.0,148805.0
+353,Data Engineer,Mid,Small,India,Full-time,0,7.0,91997.0
+354,Business Intelligence Analyst,Entry,Large,UK,Part-time,0,10.0,61872.0
+355,Data Engineer,Entry,Medium,India,Contract,50,5.0,46346.0
+356,Business Intelligence Analyst,Entry,Large,UK,Full-time,50,13.0,82723.0
+357,Data Engineer,Executive,Large,USA,Part-time,100,1.0,138871.0
+358,Data Analyst,Mid,Large,India,Part-time,100,14.0,125946.0
+359,AI Engineer,Senior,Large,India,Part-time,100,12.0,147189.0
+360,Data Scientist,Mid,Large,India,Contract,50,6.0,82752.0
+361,Business Intelligence Analyst,Mid,Small,UK,Contract,50,7.0,81565.0
+362,Business Intelligence Analyst,Mid,Small,UK,Part-time,0,12.0,106942.0
+363,Data Scientist,Mid,Small,India,Part-time,100,4.0,74730.0
+364,Data Engineer,Entry,Medium,USA,Part-time,0,7.0,88269.0
+365,Business Intelligence Analyst,Senior,Large,USA,Part-time,0,13.0,145244.0
+366,Data Analyst,Senior,Small,Australia,Part-time,0,4.0,100020.0
+367,AI Engineer,Mid,Medium,USA,Part-time,0,0.0,53917.0
+368,Data Scientist,Executive,Small,UK,Full-time,100,8.0,173721.0
+369,AI Engineer,Senior,Small,Canada,Part-time,0,7.0,100767.0
+370,Business Intelligence Analyst,Mid,Large,India,Contract,50,12.0,110247.0
+371,Business Intelligence Analyst,Entry,Medium,Germany,Contract,50,1.0,18515.0
+372,Data Scientist,Mid,Large,Canada,Contract,50,3.0,56910.0
+373,Data Analyst,Mid,Large,Germany,Part-time,100,13.0,115750.0
+374,Machine Learning Engineer,Entry,Small,Canada,Contract,0,12.0,78076.0
+375,Data Scientist,Entry,Large,USA,Full-time,100,8.0,68006.0
+376,Machine Learning Engineer,Senior,Medium,UK,Part-time,0,1.0,88269.0
+377,Data Engineer,Entry,Large,Germany,Contract,100,7.0,29314.0
+378,Machine Learning Engineer,Mid,Large,Canada,Full-time,100,1.0,47453.0
+379,Data Analyst,Senior,Large,UK,Full-time,0,4.0,102015.0
+380,Data Engineer,Senior,Small,Germany,Contract,100,2.0,100236.0
+381,Machine Learning Engineer,Entry,Medium,India,Full-time,0,9.0,57800.0
+382,Data Engineer,Senior,Small,Canada,Contract,50,1.0,94023.0
+383,Machine Learning Engineer,Entry,Small,India,Full-time,50,13.0,86884.0
+384,Data Analyst,Entry,Small,USA,Part-time,50,8.0,66352.0
+385,Machine Learning Engineer,Mid,Small,India,Part-time,100,4.0,72882.0
+386,Machine Learning Engineer,Mid,Small,India,Part-time,50,9.0,95346.0
+387,Machine Learning Engineer,Mid,Medium,Australia,Part-time,0,4.0,74035.0
+388,Data Scientist,Mid,Large,Canada,Part-time,50,0.0,56108.0
+389,Data Scientist,Entry,Small,USA,Contract,50,5.0,37853.0
+390,Data Scientist,Entry,Small,India,Part-time,100,12.0,88620.0
+391,Data Analyst,Mid,Medium,India,Part-time,0,6.0,74176.0
+392,Data Engineer,Senior,Medium,Germany,Part-time,100,0.0,82155.0
+393,Business Intelligence Analyst,Mid,Large,India,Part-time,100,8.0,86829.0
+394,Machine Learning Engineer,Entry,Medium,USA,Full-time,0,7.0,46886.0
+395,Machine Learning Engineer,Mid,Large,India,Part-time,100,11.0,101471.0
+396,Data Analyst,Entry,Small,Germany,Part-time,0,13.0,87589.0
+397,Machine Learning Engineer,Entry,Small,USA,Contract,50,13.0,83391.0
+398,Data Scientist,Senior,Large,Canada,Full-time,0,7.0,134324.0
+399,Business Intelligence Analyst,Entry,Medium,USA,Contract,0,6.0,59874.0
+400,AI Engineer,Entry,Large,Canada,Part-time,0,4.0,43350.0
+401,Machine Learning Engineer,Mid,Medium,USA,Contract,100,2.0,57899.0
+402,Data Scientist,Mid,Small,Germany,Contract,0,14.0,110306.0
+403,AI Engineer,Mid,Medium,Germany,Part-time,0,11.0,98075.0
+404,Business Intelligence Analyst,Entry,Large,USA,Full-time,0,13.0,93040.0
+405,AI Engineer,Entry,Large,India,Full-time,50,8.0,57244.0
+406,Data Scientist,Entry,Small,India,Contract,0,13.0,81611.0
+407,Data Engineer,Entry,Medium,Canada,Part-time,100,6.0,59076.0
+408,Data Engineer,Mid,Medium,Canada,Contract,0,10.0,88269.0
+409,AI Engineer,Senior,Medium,UK,Contract,0,9.0,143148.0
+410,Data Analyst,Senior,Small,Australia,Contract,50,9.0,125275.0
+411,AI Engineer,Senior,Medium,Australia,Part-time,0,7.0,120271.0
+412,Machine Learning Engineer,Mid,Large,Australia,Part-time,100,13.0,88269.0
+413,Machine Learning Engineer,Mid,Medium,Canada,Full-time,0,5.0,76553.0
+414,Data Engineer,Mid,Small,UK,Part-time,100,11.0,106573.0
+415,Data Analyst,Mid,Medium,Australia,Contract,50,13.0,124844.0
+416,Data Scientist,Mid,Medium,Australia,Contract,0,10.0,100072.0
+417,Machine Learning Engineer,Entry,Large,USA,Full-time,50,13.0,91017.0
+418,Data Engineer,Mid,Medium,USA,Part-time,0,4.0,78228.0
+419,Business Intelligence Analyst,Executive,Large,USA,Contract,100,14.0,206455.0
+420,Data Engineer,Entry,Large,India,Full-time,50,7.0,52386.0
+421,Machine Learning Engineer,Entry,Small,Australia,Full-time,0,2.0,26862.0
+422,Machine Learning Engineer,Mid,Large,India,Contract,100,11.0,102340.0
+423,Data Engineer,Senior,Large,UK,Contract,50,12.0,149487.0
+424,Data Scientist,Mid,Small,Canada,Part-time,0,12.0,115061.0
+425,AI Engineer,Mid,Large,Australia,Full-time,50,6.0,77635.0
+426,Machine Learning Engineer,Entry,Small,Canada,Contract,0,1.0,29604.0
+427,Data Engineer,Mid,Medium,USA,Full-time,100,2.0,67427.0
+428,Data Engineer,Mid,Small,Australia,Part-time,100,14.0,113042.0
+429,Data Analyst,Senior,Large,Germany,Contract,50,12.0,157198.0
+430,AI Engineer,Mid,Small,India,Part-time,50,11.0,105386.0
+431,Business Intelligence Analyst,Entry,Large,India,Full-time,0,14.0,91692.0
+432,Data Scientist,Entry,Medium,Australia,Part-time,100,1.0,30225.0
+433,Business Intelligence Analyst,Entry,Small,USA,Part-time,0,4.0,46693.0
+434,AI Engineer,Mid,Medium,India,Full-time,100,6.0,76661.0
+435,AI Engineer,Entry,Large,India,Part-time,50,10.0,70253.0
+436,AI Engineer,Mid,Large,UK,Full-time,0,9.0,103261.0
+437,Business Intelligence Analyst,Mid,Medium,Canada,Contract,0,10.0,108870.0
+438,AI Engineer,Entry,Small,Germany,Full-time,100,10.0,88269.0
+439,Data Engineer,Entry,Small,Canada,Full-time,100,10.0,88269.0
+440,Business Intelligence Analyst,Entry,Large,Canada,Contract,100,14.0,94598.0
+441,AI Engineer,Senior,Medium,UK,Full-time,50,9.0,131786.0
+442,Data Engineer,Entry,Medium,India,Contract,0,14.0,84014.0
+443,Data Analyst,Mid,Small,Germany,Contract,100,14.0,117392.0
+444,AI Engineer,Senior,Small,India,Full-time,50,14.0,162545.0
+445,Business Intelligence Analyst,Mid,Small,Australia,Part-time,100,12.0,105353.0
+446,Machine Learning Engineer,Senior,Medium,Canada,Part-time,0,13.0,148407.0
+447,AI Engineer,Mid,Small,Australia,Contract,100,0.0,57358.0
+448,Machine Learning Engineer,Executive,Small,USA,Part-time,0,12.0,196053.0
+449,Data Engineer,Entry,Large,Canada,Part-time,50,9.0,68189.0
+450,Data Analyst,Entry,Small,India,Full-time,50,8.0,61213.0
+451,Data Scientist,Mid,Small,Canada,Contract,100,0.0,47248.0
+452,Data Analyst,Senior,Medium,USA,Contract,0,7.0,84369.0
+453,AI Engineer,Senior,Medium,UK,Full-time,0,13.0,153050.0
+454,Machine Learning Engineer,Entry,Large,Australia,Part-time,0,14.0,88269.0
+455,Machine Learning Engineer,Entry,Small,Australia,Contract,100,11.0,70415.0
+456,Business Intelligence Analyst,Senior,Large,India,Part-time,0,9.0,140398.0
+457,Machine Learning Engineer,Entry,Medium,Canada,Contract,0,7.0,53115.0
+458,Business Intelligence Analyst,Senior,Large,India,Contract,0,5.0,105287.0
+459,Data Engineer,Senior,Medium,UK,Contract,0,5.0,108195.0
+460,Data Scientist,Mid,Large,India,Contract,100,11.0,113376.0
+461,AI Engineer,Mid,Large,India,Part-time,100,8.0,87450.0
+462,Business Intelligence Analyst,Mid,Small,India,Part-time,0,14.0,112925.0
+463,Data Scientist,Entry,Large,India,Part-time,0,3.0,39515.0
+464,Machine Learning Engineer,Senior,Small,USA,Part-time,50,7.0,132504.0
+465,Machine Learning Engineer,Mid,Small,UK,Full-time,50,3.0,60310.0
+466,Data Scientist,Senior,Small,USA,Contract,0,13.0,161830.0
+467,Machine Learning Engineer,Entry,Small,Australia,Contract,0,1.0,26760.0
+468,Data Engineer,Executive,Large,Canada,Contract,50,10.0,184896.0
+469,Data Engineer,Mid,Medium,India,Full-time,50,14.0,129280.0
+470,Data Scientist,Entry,Medium,Canada,Part-time,0,7.0,62105.0
+471,Business Intelligence Analyst,Entry,Medium,Canada,Contract,100,11.0,83547.0
+472,Business Intelligence Analyst,Senior,Large,Germany,Part-time,100,6.0,88269.0
+473,Data Scientist,Mid,Small,Australia,Part-time,0,3.0,70457.0
+474,Business Intelligence Analyst,Senior,Medium,Germany,Full-time,0,8.0,129543.0
+475,Business Intelligence Analyst,Entry,Large,Canada,Full-time,50,14.0,83980.0
+476,Data Engineer,Entry,Small,India,Part-time,50,8.0,61576.0
+477,Business Intelligence Analyst,Mid,Medium,Canada,Contract,100,7.0,93109.0
+478,Data Analyst,Mid,Small,Australia,Contract,0,13.0,108413.0
+479,AI Engineer,Mid,Medium,Germany,Full-time,50,0.0,40494.0
+480,Machine Learning Engineer,Executive,Medium,India,Full-time,100,6.0,150947.0
+481,Data Analyst,Executive,Medium,Canada,Full-time,100,4.0,140022.0
+482,Business Intelligence Analyst,Senior,Small,UK,Full-time,100,7.0,111128.0
+483,Data Engineer,Senior,Large,Australia,Full-time,50,11.0,148986.0
+484,Data Scientist,Mid,Small,Australia,Full-time,50,8.0,96161.0
+485,Business Intelligence Analyst,Mid,Medium,UK,Full-time,0,1.0,61160.0
+486,Data Engineer,Mid,Small,Canada,Contract,0,12.0,116941.0
+487,AI Engineer,Senior,Large,Australia,Full-time,100,13.0,154808.0
+488,Business Intelligence Analyst,Entry,Small,India,Full-time,100,10.0,66998.0
+489,Data Scientist,Mid,Large,Canada,Contract,50,3.0,62182.0
+490,Data Engineer,Entry,Large,Canada,Contract,50,3.0,43040.0
+491,Data Engineer,Mid,Small,Germany,Part-time,0,1.0,53998.0
+492,Data Engineer,Senior,Medium,Australia,Full-time,0,7.0,93312.0
+493,AI Engineer,Senior,Large,Australia,Full-time,0,10.0,88269.0
+494,Business Intelligence Analyst,Entry,Small,UK,Full-time,50,13.0,90802.0
+495,AI Engineer,Executive,Large,Germany,Full-time,100,13.0,196167.0
+496,Machine Learning Engineer,Mid,Medium,Germany,Part-time,0,12.0,102324.0
+497,Machine Learning Engineer,Entry,Small,India,Contract,0,7.0,54639.0
+498,Business Intelligence Analyst,Entry,Small,Canada,Contract,50,11.0,78338.0
+499,AI Engineer,Entry,Small,Germany,Full-time,0,8.0,88269.0
+500,Data Scientist,Entry,Medium,UK,Full-time,100,5.0,40984.0
+501,Data Engineer,Executive,Large,Germany,Full-time,50,9.0,183895.0
+502,Data Engineer,Mid,Small,UK,Part-time,0,1.0,60142.0
+503,Business Intelligence Analyst,Senior,Large,Germany,Part-time,0,1.0,96063.0
+504,Machine Learning Engineer,Mid,Large,India,Contract,50,6.0,70362.0
+505,Machine Learning Engineer,Entry,Medium,Germany,Full-time,50,7.0,48454.0
+506,Data Engineer,Mid,Small,Germany,Full-time,0,7.0,94182.0
+507,Business Intelligence Analyst,Entry,Large,India,Full-time,100,13.0,78255.0
+508,AI Engineer,Mid,Small,UK,Full-time,50,5.0,82601.0
+509,Machine Learning Engineer,Senior,Small,UK,Part-time,100,9.0,142869.0
+510,AI Engineer,Mid,Medium,UK,Contract,0,7.0,80349.0
+511,Machine Learning Engineer,Mid,Small,USA,Contract,100,13.0,112195.0
+512,Machine Learning Engineer,Entry,Small,Germany,Part-time,0,14.0,88269.0
+513,Data Analyst,Entry,Large,UK,Full-time,0,0.0,17750.0
+514,Machine Learning Engineer,Entry,Medium,Australia,Contract,0,8.0,59399.0
+515,Data Scientist,Mid,Small,USA,Contract,0,12.0,113686.0
+516,Business Intelligence Analyst,Entry,Large,India,Part-time,100,11.0,73035.0
+517,Business Intelligence Analyst,Mid,Medium,UK,Full-time,0,0.0,41507.0
+518,AI Engineer,Mid,Medium,UK,Contract,0,12.0,117387.0
+519,Machine Learning Engineer,Mid,Large,USA,Full-time,100,2.0,64776.0
+520,Data Scientist,Entry,Large,Germany,Contract,50,11.0,82309.0
+521,AI Engineer,Entry,Large,Australia,Part-time,100,8.0,56583.0
+522,Data Analyst,Senior,Large,India,Full-time,100,14.0,88269.0
+523,AI Engineer,Mid,Large,UK,Part-time,100,10.0,107369.0
+524,AI Engineer,Mid,Small,Germany,Contract,0,4.0,75797.0
+525,Machine Learning Engineer,Entry,Small,Australia,Part-time,0,7.0,54231.0
+526,Data Analyst,Executive,Medium,Australia,Part-time,0,8.0,165302.0
+527,AI Engineer,Mid,Small,India,Part-time,50,5.0,70291.0
+528,Data Scientist,Mid,Small,Canada,Contract,0,10.0,90908.0
+529,Data Scientist,Senior,Small,Australia,Full-time,50,0.0,95123.0
+530,Business Intelligence Analyst,Entry,Large,India,Part-time,0,9.0,67877.0
+531,Data Analyst,Mid,Medium,Australia,Full-time,100,6.0,84239.0
+532,Data Analyst,Mid,Medium,India,Contract,0,13.0,107586.0
+533,Business Intelligence Analyst,Entry,Medium,USA,Full-time,50,5.0,44335.0
+534,AI Engineer,Executive,Medium,India,Part-time,50,8.0,175640.0
+535,Data Analyst,Senior,Small,India,Part-time,0,6.0,127715.0
+536,Data Scientist,Mid,Small,USA,Part-time,100,13.0,115534.0
+537,Data Scientist,Entry,Large,USA,Part-time,0,11.0,66806.0
+538,Machine Learning Engineer,Entry,Medium,India,Part-time,0,10.0,70292.0
+539,Data Analyst,Mid,Small,Australia,Part-time,0,11.0,112189.0
+540,AI Engineer,Senior,Small,Germany,Contract,100,12.0,88269.0
+541,Business Intelligence Analyst,Entry,Large,USA,Contract,50,3.0,41455.0
+542,Business Intelligence Analyst,Mid,Large,Canada,Contract,100,6.0,70027.0
+543,AI Engineer,Senior,Large,Canada,Full-time,50,1.0,93660.0
+544,Data Engineer,Entry,Small,India,Full-time,50,5.0,42055.0
+545,Machine Learning Engineer,Mid,Small,UK,Contract,50,14.0,88269.0
+546,Business Intelligence Analyst,Entry,Large,India,Full-time,100,5.0,45440.0
+547,Data Analyst,Executive,Medium,India,Full-time,0,7.0,128832.0
+548,Machine Learning Engineer,Mid,Large,UK,Part-time,0,13.0,88269.0
+549,Data Analyst,Entry,Large,Australia,Part-time,0,3.0,38107.0
+550,Data Scientist,Mid,Large,USA,Full-time,0,7.0,88777.0
+551,Machine Learning Engineer,Mid,Large,Canada,Full-time,0,7.0,90954.0
+552,Business Intelligence Analyst,Senior,Small,India,Contract,100,12.0,156943.0
+553,Machine Learning Engineer,Senior,Medium,UK,Full-time,100,7.0,122957.0
+554,Machine Learning Engineer,Mid,Large,Germany,Part-time,100,7.0,87666.0
+555,Machine Learning Engineer,Entry,Medium,India,Full-time,100,0.0,20110.0
+556,Data Engineer,Entry,Medium,Canada,Contract,100,1.0,22344.0
+557,Machine Learning Engineer,Entry,Medium,USA,Part-time,100,11.0,81462.0
+558,Data Analyst,Mid,Large,India,Part-time,100,14.0,123696.0
+559,Data Scientist,Senior,Small,India,Part-time,0,3.0,96031.0
+560,AI Engineer,Mid,Large,Australia,Part-time,50,11.0,113456.0
+561,Machine Learning Engineer,Entry,Medium,UK,Full-time,100,8.0,65090.0
+562,Business Intelligence Analyst,Mid,Medium,Germany,Contract,50,2.0,65816.0
+563,Machine Learning Engineer,Senior,Small,Germany,Full-time,100,13.0,162868.0
+564,Business Intelligence Analyst,Senior,Large,USA,Full-time,100,5.0,115437.0
+565,Data Analyst,Senior,Medium,Canada,Part-time,0,6.0,125453.0
+566,Business Intelligence Analyst,Entry,Small,USA,Contract,50,7.0,59258.0
+567,AI Engineer,Entry,Medium,India,Part-time,0,12.0,71550.0
+568,Data Scientist,Senior,Small,India,Full-time,0,6.0,122977.0
+569,Business Intelligence Analyst,Mid,Small,Germany,Full-time,50,2.0,54682.0
+570,Business Intelligence Analyst,Mid,Large,Canada,Part-time,0,5.0,79439.0
+571,Data Scientist,Senior,Medium,UK,Full-time,100,4.0,118213.0
+572,AI Engineer,Senior,Large,Canada,Full-time,100,14.0,153751.0
+573,Machine Learning Engineer,Mid,Medium,India,Part-time,100,12.0,112914.0
+574,Business Intelligence Analyst,Mid,Large,UK,Full-time,100,11.0,105223.0
+575,Data Scientist,Mid,Medium,Canada,Contract,100,9.0,100398.0
+576,Data Analyst,Mid,Large,Canada,Part-time,0,3.0,61601.0
+577,Data Scientist,Mid,Small,UK,Contract,0,0.0,43856.0
+578,Data Analyst,Senior,Medium,India,Full-time,100,13.0,157661.0
+579,AI Engineer,Senior,Medium,Canada,Full-time,100,12.0,155591.0
+580,Machine Learning Engineer,Senior,Small,UK,Part-time,0,6.0,116182.0
+581,Data Scientist,Entry,Large,Australia,Full-time,50,7.0,52970.0
+582,Data Engineer,Senior,Medium,Australia,Part-time,0,1.0,100154.0
+583,Business Intelligence Analyst,Senior,Medium,India,Part-time,0,6.0,112094.0
+584,AI Engineer,Mid,Large,UK,Part-time,0,5.0,77095.0
+585,Data Scientist,Senior,Small,Australia,Part-time,0,4.0,119416.0
+586,Business Intelligence Analyst,Senior,Large,UK,Part-time,0,12.0,153672.0
+587,Data Scientist,Mid,Large,Canada,Contract,50,3.0,72932.0
+588,Data Analyst,Mid,Large,India,Part-time,100,1.0,59228.0
+589,Data Scientist,Entry,Medium,Australia,Contract,100,9.0,63559.0
+590,Data Engineer,Mid,Small,Canada,Full-time,50,5.0,65064.0
+591,Data Scientist,Mid,Small,USA,Part-time,100,4.0,63299.0
+592,Data Scientist,Senior,Large,USA,Full-time,100,1.0,89849.0
+593,Data Engineer,Entry,Medium,India,Part-time,100,9.0,60639.0
+594,AI Engineer,Entry,Large,Australia,Contract,50,6.0,58419.0
+595,Data Scientist,Mid,Medium,Australia,Contract,50,5.0,88269.0
+596,Data Engineer,Entry,Medium,Australia,Contract,100,11.0,83612.0
+597,Business Intelligence Analyst,Entry,Medium,UK,Full-time,100,14.0,96980.0
+598,Data Analyst,Entry,Medium,Canada,Part-time,100,14.0,99990.0
+599,Data Analyst,Entry,Small,Australia,Full-time,0,10.0,70866.0
+600,Data Scientist,Entry,Medium,Canada,Contract,0,8.0,53889.0
+601,AI Engineer,Mid,Medium,India,Full-time,0,10.0,109890.0
+602,AI Engineer,Mid,Large,India,Contract,50,9.0,100458.0
+603,Business Intelligence Analyst,Senior,Large,India,Contract,100,4.0,117779.0
+604,Data Scientist,Mid,Small,Australia,Contract,50,7.0,80452.0
+605,Data Analyst,Senior,Large,USA,Part-time,50,8.0,130995.0
+606,AI Engineer,Entry,Medium,Germany,Part-time,50,12.0,72631.0
+607,Data Scientist,Entry,Large,India,Contract,100,0.0,12186.0
+608,AI Engineer,Senior,Small,Australia,Full-time,0,4.0,88269.0
+609,Data Engineer,Entry,Large,Germany,Full-time,100,8.0,54348.0
+610,AI Engineer,Mid,Large,India,Part-time,100,6.0,71459.0
+611,Data Analyst,Mid,Small,India,Contract,50,5.0,66942.0
+612,Machine Learning Engineer,Mid,Small,Australia,Full-time,50,5.0,79896.0
+613,Business Intelligence Analyst,Entry,Medium,UK,Contract,50,10.0,74407.0
+614,Business Intelligence Analyst,Mid,Large,USA,Full-time,0,6.0,85622.0
+615,Data Analyst,Mid,Medium,Australia,Part-time,0,0.0,54557.0
+616,AI Engineer,Entry,Large,USA,Contract,0,3.0,41445.0
+617,Data Scientist,Mid,Large,Germany,Contract,100,12.0,117878.0
+618,AI Engineer,Senior,Medium,India,Full-time,50,14.0,167564.0
+619,Data Analyst,Executive,Large,Canada,Full-time,100,0.0,133093.0
+620,Business Intelligence Analyst,Entry,Large,USA,Full-time,0,5.0,37788.0
+621,AI Engineer,Senior,Large,Canada,Contract,50,13.0,155400.0
+622,Business Intelligence Analyst,Mid,Small,Canada,Part-time,0,12.0,116489.0
+623,Data Scientist,Mid,Medium,India,Part-time,50,3.0,58925.0
+624,Business Intelligence Analyst,Entry,Small,Germany,Full-time,50,0.0,28292.0
+625,Business Intelligence Analyst,Senior,Medium,India,Part-time,100,8.0,138433.0
+626,Machine Learning Engineer,Entry,Medium,Australia,Full-time,100,7.0,79568.0
+627,Machine Learning Engineer,Mid,Large,USA,Part-time,0,3.0,67656.0
+628,Data Engineer,Entry,Medium,Canada,Contract,100,7.0,74466.0
+629,Machine Learning Engineer,Senior,Small,India,Full-time,100,5.0,108904.0
+630,Business Intelligence Analyst,Senior,Small,India,Part-time,100,12.0,155467.0
+631,Data Analyst,Senior,Small,India,Contract,50,6.0,120419.0
+632,Business Intelligence Analyst,Entry,Medium,USA,Part-time,100,7.0,61676.0
+633,Data Analyst,Entry,Small,Germany,Contract,0,11.0,75414.0
+634,Data Analyst,Mid,Medium,India,Contract,50,12.0,112165.0
+635,Machine Learning Engineer,Mid,Small,USA,Part-time,50,10.0,100683.0
+636,AI Engineer,Entry,Small,Canada,Part-time,100,8.0,65442.0
+637,Data Scientist,Mid,Medium,Australia,Contract,50,8.0,84860.0
+638,Machine Learning Engineer,Executive,Small,UK,Contract,0,7.0,158729.0
+639,Machine Learning Engineer,Senior,Large,USA,Contract,0,9.0,139400.0
+640,AI Engineer,Senior,Medium,UK,Full-time,50,7.0,138619.0
+641,Data Scientist,Executive,Medium,India,Contract,100,14.0,88269.0
+642,Business Intelligence Analyst,Entry,Medium,India,Full-time,100,11.0,71110.0
+643,Data Engineer,Mid,Large,USA,Contract,50,11.0,88269.0
+644,Data Engineer,Executive,Medium,UK,Full-time,0,7.0,190106.0
+645,Business Intelligence Analyst,Entry,Small,India,Contract,50,13.0,79754.0
+646,Machine Learning Engineer,Senior,Small,Canada,Contract,100,2.0,101525.0
+647,Data Scientist,Mid,Small,Germany,Contract,100,11.0,101408.0
+648,Machine Learning Engineer,Mid,Medium,Germany,Part-time,50,1.0,52635.0
+649,Data Analyst,Mid,Small,India,Part-time,0,7.0,61225.0
+650,Machine Learning Engineer,Senior,Medium,UK,Contract,50,0.0,92196.0
+651,Machine Learning Engineer,Senior,Small,Australia,Full-time,0,2.0,94250.0
+652,Business Intelligence Analyst,Entry,Large,India,Full-time,0,0.0,25372.0
+653,Business Intelligence Analyst,Senior,Large,Australia,Contract,50,12.0,157279.0
+654,Business Intelligence Analyst,Entry,Large,Australia,Part-time,50,2.0,32097.0
+655,Data Engineer,Mid,Large,UK,Full-time,0,12.0,118004.0
+656,Data Analyst,Mid,Medium,Australia,Part-time,0,3.0,67055.0
+657,Business Intelligence Analyst,Mid,Small,Canada,Full-time,0,6.0,75419.0
+658,Data Scientist,Mid,Large,India,Contract,0,11.0,112769.0
+659,Data Engineer,Senior,Medium,India,Part-time,100,14.0,165713.0
+660,AI Engineer,Senior,Large,Canada,Full-time,50,7.0,146784.0
+661,Data Scientist,Mid,Large,USA,Contract,0,4.0,62433.0
+662,Data Scientist,Entry,Medium,Germany,Contract,50,4.0,40998.0
+663,Business Intelligence Analyst,Senior,Medium,India,Contract,0,12.0,151575.0
+664,AI Engineer,Senior,Small,India,Part-time,50,0.0,81301.0
+665,AI Engineer,Senior,Small,India,Part-time,50,7.0,121858.0
+666,Data Engineer,Entry,Large,Canada,Contract,0,12.0,78950.0
+667,AI Engineer,Entry,Large,USA,Part-time,0,3.0,33938.0
+668,Data Analyst,Entry,Small,UK,Full-time,50,9.0,60644.0
+669,Business Intelligence Analyst,Entry,Small,USA,Contract,50,4.0,41078.0
+670,AI Engineer,Mid,Medium,Canada,Contract,50,1.0,54260.0
+671,Data Engineer,Senior,Small,India,Part-time,100,14.0,164690.0
+672,Data Analyst,Mid,Small,Germany,Contract,0,11.0,98307.0
+673,Machine Learning Engineer,Entry,Large,India,Full-time,100,12.0,86488.0
+674,Machine Learning Engineer,Entry,Small,UK,Part-time,100,0.0,10395.0
+675,Data Analyst,Entry,Large,Australia,Part-time,0,8.0,69901.0
+676,Data Engineer,Entry,Small,Germany,Contract,0,14.0,90845.0
+677,Data Analyst,Entry,Medium,India,Contract,100,1.0,18291.0
+678,Business Intelligence Analyst,Entry,Small,Germany,Contract,0,5.0,53394.0
+679,Business Intelligence Analyst,Senior,Small,Australia,Part-time,50,0.0,93138.0
+680,Machine Learning Engineer,Executive,Small,USA,Contract,50,0.0,124537.0
+681,AI Engineer,Mid,Large,India,Full-time,100,8.0,89860.0
+682,Data Engineer,Mid,Medium,India,Contract,100,3.0,72435.0
+683,Machine Learning Engineer,Senior,Small,UK,Contract,0,8.0,139225.0
+684,AI Engineer,Entry,Large,USA,Part-time,0,10.0,66618.0
+685,AI Engineer,Entry,Medium,India,Contract,100,4.0,34723.0
+686,Business Intelligence Analyst,Senior,Large,USA,Part-time,100,6.0,129968.0
+687,Data Scientist,Entry,Large,UK,Contract,50,0.0,24837.0
+688,Data Scientist,Mid,Medium,India,Full-time,50,5.0,73539.0
+689,Data Analyst,Mid,Small,Australia,Full-time,0,7.0,76263.0
+690,Business Intelligence Analyst,Mid,Large,Australia,Part-time,50,13.0,118305.0
+691,AI Engineer,Mid,Large,UK,Part-time,0,0.0,50934.0
+692,Data Engineer,Senior,Small,Germany,Contract,0,7.0,130265.0
+693,Data Scientist,Entry,Small,UK,Contract,0,2.0,36339.0
+694,AI Engineer,Entry,Medium,Germany,Full-time,50,0.0,11351.0
+695,Data Scientist,Senior,Medium,India,Contract,100,0.0,87190.0
+696,Data Scientist,Mid,Medium,Germany,Full-time,100,12.0,119030.0
+697,Data Scientist,Entry,Small,India,Part-time,50,13.0,91650.0
+698,Data Engineer,Senior,Large,India,Contract,100,10.0,140885.0
+699,Business Intelligence Analyst,Mid,Large,Canada,Part-time,0,5.0,72434.0
+700,Data Engineer,Senior,Medium,India,Contract,100,10.0,131022.0
+701,Machine Learning Engineer,Senior,Small,Germany,Full-time,50,5.0,107037.0
+702,AI Engineer,Mid,Large,Canada,Part-time,100,0.0,48756.0
+703,Business Intelligence Analyst,Mid,Medium,Canada,Part-time,0,7.0,118558.0
+704,Business Intelligence Analyst,Executive,Large,India,Contract,0,13.0,202443.0
+705,Business Intelligence Analyst,Entry,Large,UK,Part-time,50,2.0,21424.0
+706,Business Intelligence Analyst,Senior,Small,India,Full-time,50,6.0,114123.0
+707,Data Engineer,Entry,Small,India,Part-time,50,9.0,71603.0
+708,Business Intelligence Analyst,Mid,Large,Canada,Part-time,0,2.0,50405.0
+709,Data Analyst,Mid,Medium,India,Contract,100,2.0,59829.0
+710,AI Engineer,Senior,Small,UK,Part-time,100,2.0,108702.0
+711,Business Intelligence Analyst,Executive,Large,India,Contract,50,11.0,184951.0
+712,AI Engineer,Entry,Small,India,Contract,100,6.0,48983.0
+713,Data Analyst,Entry,Small,Canada,Part-time,100,3.0,42693.0
+714,Data Analyst,Senior,Small,India,Full-time,50,7.0,107025.0
+715,AI Engineer,Mid,Large,Canada,Contract,50,2.0,54929.0
+716,Data Scientist,Entry,Medium,USA,Part-time,0,9.0,64522.0
+717,Machine Learning Engineer,Mid,Medium,UK,Contract,0,10.0,102638.0
+718,Data Scientist,Mid,Medium,UK,Full-time,0,8.0,88702.0
+719,Data Scientist,Executive,Small,UK,Full-time,0,1.0,135764.0
+720,Data Engineer,Entry,Large,Germany,Contract,100,3.0,37121.0
+721,Data Scientist,Mid,Small,India,Full-time,100,7.0,89219.0
+722,Business Intelligence Analyst,Mid,Medium,India,Part-time,0,5.0,66617.0
+723,Data Engineer,Senior,Medium,UK,Part-time,0,13.0,155248.0
+724,Data Engineer,Mid,Large,USA,Contract,50,6.0,87904.0
+725,Data Analyst,Mid,Small,UK,Full-time,100,12.0,101583.0
+726,Data Scientist,Entry,Medium,Australia,Part-time,100,6.0,46704.0
+727,Data Analyst,Senior,Large,India,Part-time,0,1.0,92988.0
+728,AI Engineer,Mid,Small,India,Part-time,100,3.0,72959.0
+729,Machine Learning Engineer,Entry,Small,Canada,Contract,50,9.0,64953.0
+730,Data Engineer,Mid,Medium,Germany,Contract,50,9.0,87613.0
+731,AI Engineer,Entry,Medium,Canada,Part-time,100,5.0,38892.0
+732,AI Engineer,Entry,Small,UK,Part-time,0,2.0,32336.0
+733,Business Intelligence Analyst,Senior,Small,Australia,Full-time,100,8.0,126733.0
+734,Machine Learning Engineer,Mid,Medium,USA,Full-time,50,12.0,104431.0
+735,AI Engineer,Senior,Small,Canada,Full-time,0,3.0,112765.0
+736,AI Engineer,Entry,Medium,Germany,Contract,100,9.0,58515.0
+737,Machine Learning Engineer,Senior,Small,Canada,Part-time,0,12.0,144454.0
+738,Machine Learning Engineer,Entry,Medium,India,Contract,0,1.0,22769.0
+739,AI Engineer,Mid,Large,UK,Part-time,50,5.0,73384.0
+740,Machine Learning Engineer,Executive,Medium,UK,Full-time,0,0.0,133727.0
+741,AI Engineer,Senior,Medium,UK,Full-time,100,7.0,108534.0
+742,AI Engineer,Mid,Large,UK,Full-time,0,12.0,100755.0
+743,Business Intelligence Analyst,Mid,Small,UK,Full-time,0,11.0,113909.0
+744,Data Scientist,Senior,Large,UK,Part-time,100,9.0,142211.0
+745,AI Engineer,Mid,Medium,USA,Full-time,50,0.0,58717.0
+746,Data Analyst,Senior,Small,Germany,Part-time,50,13.0,153302.0
+747,Data Engineer,Senior,Large,UK,Part-time,100,7.0,127907.0
+748,Data Scientist,Entry,Small,Germany,Contract,100,4.0,38984.0
+749,Data Scientist,Entry,Small,Australia,Full-time,50,5.0,49385.0
+750,Data Scientist,Mid,Large,UK,Full-time,0,1.0,52181.0
+751,Business Intelligence Analyst,Entry,Small,Canada,Contract,100,1.0,28445.0
+752,AI Engineer,Entry,Large,UK,Part-time,0,11.0,77875.0
+753,Business Intelligence Analyst,Senior,Medium,India,Full-time,100,8.0,123414.0
+754,AI Engineer,Mid,Small,USA,Part-time,50,2.0,65005.0
+755,Business Intelligence Analyst,Senior,Medium,Canada,Contract,0,5.0,114501.0
+756,Business Intelligence Analyst,Mid,Medium,Canada,Part-time,0,9.0,99245.0
+757,Data Engineer,Mid,Small,India,Full-time,100,4.0,66457.0
+758,Data Analyst,Entry,Large,UK,Part-time,0,13.0,81749.0
+759,Business Intelligence Analyst,Mid,Small,USA,Part-time,100,11.0,95296.0
+760,Data Engineer,Entry,Medium,Canada,Full-time,50,3.0,34821.0
+761,Machine Learning Engineer,Mid,Medium,USA,Full-time,0,9.0,101952.0
+762,Data Analyst,Senior,Large,Canada,Part-time,100,1.0,90283.0
+763,Business Intelligence Analyst,Mid,Small,UK,Part-time,0,7.0,88119.0
+764,Data Scientist,Mid,Medium,Australia,Contract,100,9.0,92664.0
+765,Machine Learning Engineer,Mid,Medium,Canada,Full-time,100,6.0,77511.0
+766,Machine Learning Engineer,Entry,Medium,Australia,Part-time,100,10.0,65465.0
+767,Data Engineer,Mid,Large,Canada,Full-time,50,1.0,57557.0
+768,Machine Learning Engineer,Entry,Medium,Germany,Contract,0,5.0,39382.0
+769,Data Analyst,Entry,Medium,UK,Part-time,50,13.0,88269.0
+770,Business Intelligence Analyst,Entry,Small,India,Part-time,100,7.0,62263.0
+771,Business Intelligence Analyst,Mid,Small,India,Part-time,100,6.0,79408.0
+772,Data Scientist,Senior,Medium,India,Full-time,50,14.0,163690.0
+773,Data Engineer,Entry,Medium,UK,Contract,50,0.0,15069.0
+774,Data Scientist,Mid,Small,India,Full-time,0,4.0,79623.0
+775,Machine Learning Engineer,Mid,Large,UK,Part-time,100,1.0,56672.0
+776,Data Scientist,Entry,Large,India,Contract,50,5.0,51891.0
+777,Data Analyst,Senior,Large,Australia,Part-time,100,6.0,88269.0
+778,Business Intelligence Analyst,Mid,Large,Germany,Part-time,100,13.0,122509.0
+779,Machine Learning Engineer,Mid,Large,India,Full-time,0,13.0,122269.0
+780,Data Scientist,Mid,Large,Australia,Part-time,0,6.0,89225.0
+781,Data Engineer,Entry,Large,Canada,Contract,0,2.0,27975.0
+782,Data Analyst,Mid,Large,UK,Part-time,50,6.0,82069.0
+783,Data Analyst,Mid,Small,USA,Part-time,100,14.0,116565.0
+784,Data Scientist,Senior,Large,USA,Full-time,50,7.0,104870.0
+785,Business Intelligence Analyst,Entry,Large,UK,Contract,50,7.0,63909.0
+786,Data Scientist,Mid,Large,Germany,Full-time,0,14.0,119117.0
+787,Machine Learning Engineer,Mid,Medium,India,Part-time,100,11.0,96938.0
+788,Data Scientist,Entry,Small,Germany,Full-time,100,7.0,56554.0
+789,Data Analyst,Mid,Small,USA,Full-time,0,6.0,73232.0
+790,Data Scientist,Senior,Small,Australia,Full-time,100,5.0,108465.0
+791,Business Intelligence Analyst,Senior,Large,UK,Full-time,0,1.0,85440.0
+792,Data Engineer,Mid,Large,UK,Part-time,50,5.0,81845.0
+793,AI Engineer,Senior,Medium,Germany,Part-time,50,12.0,145413.0
+794,Data Scientist,Executive,Small,Australia,Contract,0,11.0,186663.0
+795,Business Intelligence Analyst,Senior,Large,Germany,Full-time,50,14.0,155755.0
+796,Business Intelligence Analyst,Entry,Small,India,Full-time,50,10.0,65012.0
+797,Data Engineer,Senior,Medium,Canada,Contract,0,8.0,139547.0
+798,Data Analyst,Mid,Medium,Australia,Full-time,50,14.0,126126.0
+799,Business Intelligence Analyst,Executive,Medium,Canada,Contract,100,1.0,88269.0
+800,Business Intelligence Analyst,Mid,Small,India,Part-time,50,0.0,40005.0
+801,Business Intelligence Analyst,Entry,Large,Canada,Contract,0,10.0,64776.0
+802,Business Intelligence Analyst,Senior,Large,USA,Full-time,100,12.0,147038.0
+803,Machine Learning Engineer,Mid,Medium,Canada,Contract,100,4.0,88269.0
+804,Machine Learning Engineer,Executive,Large,India,Part-time,50,10.0,173970.0
+805,Data Analyst,Executive,Medium,Canada,Full-time,100,5.0,156050.0
+806,Data Scientist,Mid,Small,UK,Part-time,0,2.0,52606.0
+807,Business Intelligence Analyst,Entry,Medium,Germany,Part-time,100,7.0,61482.0
+808,Data Engineer,Mid,Small,USA,Contract,50,6.0,70525.0
+809,Data Scientist,Entry,Medium,UK,Part-time,50,1.0,21337.0
+810,Data Engineer,Entry,Large,UK,Full-time,100,11.0,66180.0
+811,Data Scientist,Senior,Large,India,Part-time,0,6.0,123057.0
+812,Data Analyst,Entry,Medium,Germany,Part-time,0,14.0,85922.0
+813,Business Intelligence Analyst,Mid,Large,Germany,Contract,50,14.0,113071.0
+814,Business Intelligence Analyst,Executive,Large,Australia,Part-time,50,0.0,122792.0
+815,AI Engineer,Mid,Large,USA,Contract,0,8.0,93844.0
+816,Data Engineer,Entry,Small,India,Contract,100,12.0,88269.0
+817,Data Scientist,Senior,Large,USA,Full-time,100,6.0,128799.0
+818,Data Scientist,Entry,Small,Australia,Full-time,100,5.0,37685.0
+819,Machine Learning Engineer,Senior,Medium,India,Full-time,100,12.0,156212.0
+820,AI Engineer,Executive,Large,UK,Full-time,0,1.0,134428.0
+821,Machine Learning Engineer,Senior,Large,USA,Contract,50,2.0,98159.0
+822,Machine Learning Engineer,Mid,Large,UK,Part-time,50,0.0,44100.0
+823,Machine Learning Engineer,Mid,Medium,India,Full-time,100,14.0,116374.0
+824,Data Engineer,Entry,Small,India,Full-time,0,9.0,61004.0
+825,Data Engineer,Senior,Small,India,Full-time,0,12.0,145521.0
+826,Data Analyst,Senior,Large,Canada,Part-time,100,4.0,111412.0
+827,Data Analyst,Mid,Medium,Canada,Full-time,100,8.0,91755.0
+828,Machine Learning Engineer,Entry,Medium,UK,Part-time,100,12.0,89681.0
+829,AI Engineer,Entry,Medium,India,Contract,50,5.0,54017.0
+830,Data Scientist,Entry,Medium,India,Contract,100,4.0,33890.0
+831,Data Engineer,Senior,Medium,India,Contract,50,11.0,152175.0
+832,AI Engineer,Mid,Small,India,Part-time,0,2.0,59191.0
+833,Business Intelligence Analyst,Senior,Small,USA,Full-time,0,4.0,100151.0
+834,Data Engineer,Senior,Small,Germany,Full-time,50,7.0,134447.0
+835,Data Engineer,Entry,Large,Germany,Full-time,50,11.0,78861.0
+836,Data Analyst,Mid,Medium,Germany,Full-time,50,1.0,63475.0
+837,Data Scientist,Mid,Large,India,Full-time,50,4.0,75032.0
+838,Data Scientist,Mid,Medium,India,Part-time,100,5.0,69599.0
+839,Business Intelligence Analyst,Senior,Small,Australia,Contract,0,7.0,137274.0
+840,Business Intelligence Analyst,Senior,Large,India,Full-time,100,7.0,127218.0
+841,Data Engineer,Senior,Small,USA,Contract,50,7.0,117977.0
+842,Machine Learning Engineer,Entry,Medium,Australia,Part-time,100,14.0,97226.0
+843,Data Analyst,Entry,Medium,Australia,Part-time,100,7.0,33793.0
+844,Data Analyst,Senior,Medium,Australia,Full-time,0,8.0,121659.0
+845,Data Engineer,Entry,Small,Canada,Part-time,100,3.0,30162.0
+846,AI Engineer,Mid,Medium,USA,Contract,0,11.0,105705.0
+847,Machine Learning Engineer,Entry,Small,Germany,Full-time,50,8.0,66040.0
+848,Data Engineer,Mid,Large,USA,Full-time,100,10.0,94270.0
+849,Machine Learning Engineer,Entry,Medium,Canada,Contract,50,6.0,53286.0
+850,Machine Learning Engineer,Mid,Medium,India,Full-time,0,7.0,68603.0
+851,Machine Learning Engineer,Executive,Medium,USA,Full-time,50,3.0,148772.0
+852,Data Engineer,Entry,Large,Australia,Contract,50,1.0,32600.0
+853,Data Analyst,Entry,Medium,Germany,Full-time,0,7.0,47291.0
+854,Data Analyst,Mid,Small,Germany,Full-time,50,5.0,78123.0
+855,Machine Learning Engineer,Senior,Small,India,Contract,50,11.0,138811.0
+856,AI Engineer,Entry,Medium,USA,Part-time,50,14.0,93347.0
+857,Data Scientist,Mid,Medium,Canada,Contract,100,2.0,63851.0
+858,Data Engineer,Entry,Large,India,Full-time,50,6.0,55513.0
+859,Data Scientist,Senior,Large,USA,Contract,0,9.0,130142.0
+860,AI Engineer,Mid,Large,UK,Full-time,100,6.0,82194.0
+861,Data Engineer,Senior,Medium,Germany,Full-time,100,5.0,112526.0
+862,Machine Learning Engineer,Senior,Large,Canada,Contract,0,1.0,104362.0
+863,Data Analyst,Entry,Large,Australia,Full-time,50,7.0,58513.0
+864,Data Scientist,Senior,Small,Canada,Part-time,100,0.0,92084.0
+865,Business Intelligence Analyst,Entry,Large,Australia,Full-time,100,12.0,83349.0
+866,Business Intelligence Analyst,Senior,Small,Canada,Contract,100,0.0,95068.0
+867,AI Engineer,Mid,Small,Germany,Part-time,50,5.0,69595.0
+868,Machine Learning Engineer,Senior,Large,Australia,Part-time,100,4.0,115402.0
+869,Data Scientist,Entry,Small,USA,Full-time,0,8.0,59955.0
+870,Machine Learning Engineer,Entry,Medium,Australia,Contract,50,7.0,88554.0
+871,Data Scientist,Mid,Medium,India,Full-time,0,11.0,108996.0
+872,AI Engineer,Mid,Large,USA,Full-time,0,6.0,89405.0
+873,AI Engineer,Entry,Medium,India,Contract,100,1.0,16185.0
+874,Business Intelligence Analyst,Mid,Small,Canada,Contract,100,12.0,103285.0
+875,Machine Learning Engineer,Entry,Medium,USA,Full-time,100,11.0,68447.0
+876,Data Engineer,Mid,Large,Canada,Part-time,0,6.0,80662.0
+877,Business Intelligence Analyst,Senior,Large,UK,Full-time,50,14.0,154899.0
+878,Machine Learning Engineer,Mid,Small,Canada,Part-time,100,2.0,66060.0
+879,Business Intelligence Analyst,Entry,Large,Canada,Full-time,100,0.0,11935.0
+880,Data Engineer,Mid,Medium,India,Contract,0,7.0,99445.0
+881,Data Analyst,Entry,Large,Australia,Part-time,50,7.0,54274.0
+882,Data Analyst,Executive,Small,UK,Contract,0,13.0,195335.0
+883,Data Analyst,Entry,Large,Canada,Contract,100,11.0,82669.0
+884,Data Analyst,Senior,Medium,Canada,Contract,0,2.0,98545.0
+885,Data Scientist,Executive,Small,UK,Contract,100,10.0,177479.0
+886,Data Analyst,Senior,Medium,UK,Contract,50,7.0,120255.0
+887,Data Engineer,Mid,Small,USA,Full-time,0,6.0,88269.0
+888,AI Engineer,Senior,Large,India,Part-time,100,11.0,140062.0
+889,AI Engineer,Executive,Small,UK,Full-time,100,14.0,197066.0
+890,Data Scientist,Mid,Small,UK,Full-time,100,1.0,55712.0
+891,Data Analyst,Mid,Large,India,Full-time,100,12.0,115991.0
+892,Data Analyst,Mid,Medium,Australia,Contract,0,7.0,108022.0
+893,Data Analyst,Mid,Large,UK,Full-time,100,7.0,106547.0
+894,Business Intelligence Analyst,Mid,Small,India,Part-time,0,0.0,52210.0
+895,Machine Learning Engineer,Mid,Large,Australia,Full-time,100,6.0,74204.0
+896,Business Intelligence Analyst,Entry,Small,Australia,Contract,0,12.0,77590.0
+897,Machine Learning Engineer,Entry,Large,Canada,Part-time,0,0.0,11368.0
+898,Data Analyst,Entry,Large,Canada,Part-time,100,5.0,46529.0
+899,Data Analyst,Entry,Medium,Canada,Part-time,100,12.0,88141.0
+900,Business Intelligence Analyst,Entry,Small,Canada,Part-time,100,10.0,75945.0
+901,Business Intelligence Analyst,Mid,Medium,Germany,Full-time,100,9.0,94709.0
+902,Machine Learning Engineer,Entry,Small,UK,Contract,50,10.0,73644.0
+903,AI Engineer,Senior,Large,Canada,Part-time,100,9.0,129917.0
+904,Machine Learning Engineer,Entry,Small,USA,Part-time,100,7.0,64868.0
+905,Business Intelligence Analyst,Entry,Medium,Canada,Contract,100,6.0,51877.0
+906,Data Engineer,Senior,Medium,UK,Full-time,0,3.0,108224.0
+907,Business Intelligence Analyst,Mid,Medium,Canada,Part-time,100,0.0,43052.0
+908,Data Engineer,Entry,Small,Germany,Full-time,0,0.0,18382.0
+909,Data Scientist,Senior,Medium,India,Full-time,0,3.0,112316.0
+910,Business Intelligence Analyst,Senior,Medium,India,Full-time,0,4.0,107240.0
+911,Data Scientist,Mid,Medium,UK,Full-time,0,11.0,98238.0
+912,AI Engineer,Mid,Large,India,Part-time,50,6.0,80407.0
+913,Machine Learning Engineer,Executive,Large,India,Part-time,100,13.0,185565.0
+914,Data Engineer,Mid,Small,USA,Full-time,0,3.0,60558.0
+915,Machine Learning Engineer,Mid,Small,UK,Full-time,100,9.0,101375.0
+916,Data Scientist,Senior,Medium,UK,Contract,0,13.0,162127.0
+917,Data Engineer,Entry,Large,India,Contract,50,11.0,76103.0
+918,Machine Learning Engineer,Mid,Medium,India,Contract,0,0.0,55174.0
+919,Business Intelligence Analyst,Entry,Medium,India,Part-time,100,10.0,88269.0
+920,Data Analyst,Senior,Large,Australia,Contract,100,9.0,133753.0
+921,Data Scientist,Mid,Large,Germany,Part-time,50,6.0,75629.0
+922,Machine Learning Engineer,Mid,Large,Canada,Part-time,100,1.0,51318.0
+923,Data Scientist,Entry,Small,Germany,Part-time,100,12.0,70301.0
+924,Data Scientist,Entry,Small,UK,Part-time,0,10.0,67506.0
+925,Data Engineer,Mid,Medium,USA,Contract,100,1.0,53701.0
+926,Data Engineer,Senior,Small,Canada,Full-time,0,7.0,121962.0
+927,Data Analyst,Mid,Large,USA,Full-time,50,11.0,100429.0
+928,Business Intelligence Analyst,Entry,Large,Australia,Full-time,100,9.0,70866.0
+929,Data Scientist,Senior,Small,UK,Contract,0,9.0,132248.0
+930,Machine Learning Engineer,Entry,Medium,Australia,Full-time,100,9.0,74829.0
+931,AI Engineer,Executive,Medium,UK,Contract,0,4.0,142203.0
+932,Data Scientist,Entry,Small,USA,Contract,50,9.0,74218.0
+933,Data Scientist,Mid,Medium,USA,Contract,0,1.0,47479.0
+934,Data Analyst,Entry,Medium,USA,Full-time,100,4.0,40386.0
+935,Business Intelligence Analyst,Senior,Medium,UK,Full-time,0,7.0,115434.0
+936,AI Engineer,Mid,Large,India,Full-time,100,5.0,75230.0
+937,Data Engineer,Entry,Large,USA,Part-time,50,2.0,21706.0
+938,Data Engineer,Mid,Small,Australia,Contract,0,7.0,80725.0
+939,Machine Learning Engineer,Entry,Large,Canada,Part-time,100,14.0,88269.0
+940,AI Engineer,Entry,Medium,UK,Contract,100,13.0,78959.0
+941,Data Engineer,Senior,Large,Australia,Full-time,100,8.0,134521.0
+942,Machine Learning Engineer,Mid,Small,Germany,Contract,0,4.0,71143.0
+943,Business Intelligence Analyst,Senior,Large,Germany,Contract,0,12.0,146825.0
+944,Machine Learning Engineer,Mid,Medium,Canada,Part-time,0,1.0,51347.0
+945,Data Engineer,Mid,Medium,India,Contract,50,1.0,57841.0
+946,Data Analyst,Entry,Small,USA,Full-time,100,6.0,42713.0
+947,Data Analyst,Entry,Large,UK,Contract,100,0.0,21561.0
+948,Data Analyst,Senior,Large,Australia,Contract,50,9.0,137787.0
+949,Data Engineer,Executive,Large,USA,Contract,50,11.0,181512.0
+950,Data Analyst,Entry,Medium,Australia,Part-time,0,1.0,25596.0
+951,AI Engineer,Entry,Small,UK,Contract,0,9.0,74930.0
+952,Business Intelligence Analyst,Mid,Large,Germany,Contract,0,3.0,70182.0
+953,Machine Learning Engineer,Executive,Medium,USA,Part-time,0,0.0,138687.0
+954,Machine Learning Engineer,Entry,Medium,Canada,Part-time,0,3.0,28221.0
+955,Data Engineer,Mid,Medium,India,Part-time,0,7.0,101082.0
+956,Data Analyst,Senior,Large,Canada,Part-time,50,11.0,143637.0
+957,Data Analyst,Entry,Large,India,Full-time,50,10.0,73123.0
+958,Data Scientist,Entry,Large,Australia,Full-time,50,12.0,83042.0
+959,Business Intelligence Analyst,Mid,Large,USA,Contract,100,9.0,99133.0
+960,AI Engineer,Senior,Large,USA,Full-time,100,14.0,167976.0
+961,Machine Learning Engineer,Entry,Large,India,Contract,0,4.0,35608.0
+962,Data Scientist,Mid,Large,Germany,Full-time,50,8.0,85526.0
+963,Data Scientist,Mid,Large,India,Part-time,100,0.0,46472.0
+964,Data Engineer,Mid,Large,Canada,Part-time,100,11.0,97775.0
+965,Machine Learning Engineer,Mid,Medium,Australia,Full-time,50,4.0,75828.0
+966,Data Engineer,Mid,Large,Canada,Full-time,100,1.0,57008.0
+967,AI Engineer,Mid,Small,Canada,Contract,100,8.0,97974.0
+968,Data Scientist,Mid,Medium,Australia,Contract,50,5.0,80055.0
+969,Data Scientist,Mid,Large,Australia,Contract,100,1.0,63615.0
+970,Business Intelligence Analyst,Mid,Small,USA,Part-time,50,13.0,110118.0
+971,AI Engineer,Senior,Large,India,Part-time,100,2.0,97960.0
+972,Data Scientist,Entry,Small,UK,Part-time,50,13.0,92945.0
+973,AI Engineer,Senior,Small,UK,Part-time,100,7.0,127464.0
+974,Machine Learning Engineer,Senior,Small,India,Contract,100,0.0,87596.0
+975,Data Analyst,Entry,Small,Australia,Part-time,50,11.0,72240.0
+976,Data Scientist,Mid,Medium,USA,Part-time,100,2.0,54942.0
+977,Business Intelligence Analyst,Mid,Medium,UK,Part-time,50,12.0,119622.0
+978,Machine Learning Engineer,Entry,Small,India,Part-time,50,9.0,68536.0
+979,AI Engineer,Mid,Large,USA,Full-time,100,0.0,41600.0
+980,Data Engineer,Entry,Small,USA,Contract,0,10.0,65700.0
+981,Machine Learning Engineer,Entry,Medium,UK,Contract,100,10.0,66071.0
+982,Data Scientist,Senior,Large,Germany,Part-time,0,7.0,125248.0
+983,AI Engineer,Entry,Medium,India,Full-time,0,0.0,22523.0
+984,Data Analyst,Senior,Medium,UK,Contract,100,12.0,157093.0
+985,Machine Learning Engineer,Mid,Large,Germany,Contract,0,4.0,79355.0
+986,Data Scientist,Senior,Small,USA,Part-time,50,3.0,112177.0
+987,Business Intelligence Analyst,Mid,Small,Germany,Part-time,50,6.0,88269.0
+988,Data Engineer,Entry,Small,USA,Contract,0,13.0,86047.0
+989,AI Engineer,Mid,Small,UK,Contract,50,4.0,65765.0
+990,Machine Learning Engineer,Entry,Large,Australia,Full-time,100,7.0,45026.0
+991,Machine Learning Engineer,Mid,Large,UK,Contract,50,11.0,88269.0
+992,Data Analyst,Senior,Large,Canada,Contract,0,13.0,164485.0
+993,Data Analyst,Entry,Medium,Canada,Part-time,100,10.0,66609.0
+994,Business Intelligence Analyst,Mid,Large,India,Contract,50,0.0,49314.0
+995,Data Engineer,Senior,Small,UK,Part-time,100,4.0,116258.0
+996,Business Intelligence Analyst,Senior,Medium,India,Contract,0,3.0,100309.0
+997,Data Scientist,Mid,Small,UK,Contract,50,2.0,50011.0
+998,Data Scientist,Entry,Small,Australia,Contract,100,4.0,45389.0
+999,Business Intelligence Analyst,Mid,Large,Germany,Full-time,100,9.0,98671.0
+1000,Data Engineer,Entry,Large,UK,Part-time,50,14.0,85774.0
+1001,Business Intelligence Analyst,Senior,Small,UK,Full-time,100,7.0,106563.0
+1002,Data Engineer,Executive,Small,USA,Contract,100,7.0,155796.0
+1003,Data Engineer,Senior,Medium,USA,Full-time,0,12.0,147279.0
+1004,AI Engineer,Senior,Large,USA,Part-time,0,2.0,97188.0
+1005,Data Engineer,Entry,Medium,UK,Contract,0,0.0,12024.0
+1006,Data Analyst,Senior,Medium,India,Full-time,0,8.0,127666.0
+1007,Data Engineer,Senior,Medium,Germany,Full-time,0,14.0,153217.0
+1008,Data Engineer,Entry,Small,Germany,Part-time,0,7.0,88269.0
+1009,Data Engineer,Senior,Medium,Australia,Full-time,50,5.0,110285.0
+1010,Data Scientist,Entry,Medium,India,Part-time,0,9.0,62370.0
+1011,Data Analyst,Mid,Small,India,Contract,100,0.0,88269.0
+1012,Data Analyst,Senior,Large,Germany,Contract,50,7.0,121856.0
+1013,Business Intelligence Analyst,Mid,Large,Canada,Full-time,100,1.0,88269.0
+1014,AI Engineer,Entry,Medium,USA,Contract,0,8.0,54866.0
+1015,Data Engineer,Mid,Small,USA,Contract,0,13.0,118566.0
+1016,Machine Learning Engineer,Mid,Large,Germany,Full-time,100,7.0,80054.0
+1017,AI Engineer,Senior,Medium,India,Contract,100,2.0,99108.0
+1018,AI Engineer,Mid,Medium,Australia,Full-time,100,12.0,118454.0
+1019,Data Analyst,Mid,Small,Canada,Part-time,50,4.0,61781.0
+1020,AI Engineer,Senior,Medium,Germany,Part-time,0,8.0,137900.0
+1021,Data Engineer,Mid,Large,USA,Part-time,100,12.0,111062.0
+1022,Data Engineer,Mid,Small,UK,Full-time,0,0.0,51774.0
+1023,Data Scientist,Mid,Large,India,Full-time,100,8.0,95958.0
+1024,Data Engineer,Senior,Large,UK,Contract,0,14.0,169674.0
+1025,Data Engineer,Mid,Large,Australia,Contract,50,3.0,64638.0
+1026,Data Analyst,Mid,Medium,Germany,Contract,0,3.0,56379.0
+1027,Data Engineer,Entry,Medium,USA,Contract,100,14.0,89675.0
+1028,Data Scientist,Entry,Large,Canada,Contract,0,3.0,35266.0
+1029,Machine Learning Engineer,Entry,Large,UK,Full-time,50,9.0,72184.0
+1030,Data Analyst,Entry,Small,Canada,Full-time,50,11.0,80195.0
+1031,Machine Learning Engineer,Mid,Small,Australia,Part-time,0,8.0,90929.0
+1032,Data Analyst,Senior,Medium,USA,Part-time,100,13.0,150267.0
+1033,Business Intelligence Analyst,Mid,Medium,UK,Part-time,50,5.0,84879.0
+1034,AI Engineer,Senior,Small,Australia,Part-time,50,10.0,133257.0
+1035,Business Intelligence Analyst,Executive,Large,Canada,Full-time,0,7.0,167069.0
+1036,Data Engineer,Senior,Medium,Canada,Full-time,50,11.0,135981.0
+1037,Machine Learning Engineer,Mid,Large,UK,Full-time,50,13.0,115668.0
+1038,Data Engineer,Mid,Small,USA,Contract,100,3.0,73472.0
+1039,AI Engineer,Mid,Medium,Canada,Contract,100,2.0,69336.0
+1040,Data Analyst,Entry,Medium,Germany,Part-time,100,13.0,86656.0
+1041,AI Engineer,Mid,Small,Australia,Contract,0,0.0,58510.0
+1042,Data Scientist,Senior,Medium,UK,Full-time,50,9.0,133063.0
+1043,AI Engineer,Senior,Small,India,Part-time,0,14.0,168975.0
+1044,Data Scientist,Entry,Medium,India,Part-time,50,14.0,89665.0
+1045,AI Engineer,Mid,Small,USA,Contract,50,6.0,89706.0
+1046,Data Scientist,Senior,Medium,Germany,Part-time,50,3.0,101437.0
+1047,Machine Learning Engineer,Entry,Large,India,Contract,100,13.0,85375.0
+1048,Data Engineer,Mid,Large,India,Contract,0,7.0,77861.0
+1049,Data Engineer,Senior,Large,USA,Part-time,0,13.0,157842.0
+1050,Business Intelligence Analyst,Mid,Medium,Australia,Contract,50,2.0,68039.0
+1051,Data Engineer,Entry,Medium,Germany,Contract,0,0.0,28139.0
+1052,Data Analyst,Mid,Large,Germany,Contract,100,4.0,66227.0
+1053,AI Engineer,Senior,Large,USA,Contract,0,13.0,156424.0
+1054,Business Intelligence Analyst,Mid,Small,USA,Part-time,50,1.0,54643.0
+1055,Data Analyst,Entry,Small,Canada,Full-time,100,2.0,30310.0
+1056,Data Analyst,Mid,Small,USA,Full-time,100,13.0,123951.0
+1057,Data Scientist,Mid,Large,Canada,Contract,50,5.0,80233.0
+1058,Data Engineer,Mid,Large,Canada,Contract,0,2.0,63200.0
+1059,Machine Learning Engineer,Senior,Large,UK,Contract,50,2.0,88269.0
+1060,Machine Learning Engineer,Entry,Small,India,Full-time,0,11.0,75532.0
+1061,Business Intelligence Analyst,Senior,Medium,Australia,Contract,0,5.0,114680.0
+1062,Machine Learning Engineer,Entry,Large,Germany,Part-time,100,4.0,88269.0
+1063,AI Engineer,Mid,Medium,Germany,Part-time,50,9.0,92150.0
+1064,Machine Learning Engineer,Entry,Medium,UK,Part-time,100,7.0,51766.0
+1065,Business Intelligence Analyst,Mid,Medium,Canada,Full-time,50,0.0,43549.0
+1066,Machine Learning Engineer,Mid,Small,Canada,Contract,50,12.0,118693.0
+1067,AI Engineer,Mid,Medium,USA,Contract,100,2.0,59634.0
+1068,Data Scientist,Entry,Large,UK,Contract,50,2.0,21976.0
+1069,Business Intelligence Analyst,Mid,Small,USA,Full-time,50,10.0,105560.0
+1070,Data Scientist,Entry,Large,UK,Full-time,0,5.0,47165.0
+1071,Data Scientist,Senior,Large,USA,Full-time,50,7.0,117490.0
+1072,Data Scientist,Senior,Small,India,Full-time,50,2.0,101995.0
+1073,Data Analyst,Mid,Large,Germany,Part-time,100,2.0,62019.0
+1074,Data Engineer,Mid,Large,Germany,Full-time,100,5.0,72425.0
+1075,Data Analyst,Mid,Small,Australia,Full-time,50,7.0,87857.0
+1076,Data Engineer,Entry,Large,Canada,Full-time,0,5.0,43689.0
+1077,Data Scientist,Mid,Medium,Australia,Contract,0,7.0,103976.0
+1078,Business Intelligence Analyst,Senior,Large,India,Contract,100,11.0,149205.0
+1079,Data Engineer,Mid,Medium,Australia,Contract,50,13.0,105704.0
+1080,AI Engineer,Entry,Large,Germany,Part-time,50,9.0,60452.0
+1081,AI Engineer,Senior,Small,Canada,Part-time,0,2.0,88269.0
+1082,Machine Learning Engineer,Mid,Small,India,Full-time,0,3.0,61094.0
+1083,Data Engineer,Senior,Large,Germany,Contract,0,0.0,83681.0
+1084,Business Intelligence Analyst,Mid,Small,USA,Part-time,100,12.0,118300.0
+1085,Data Analyst,Mid,Large,UK,Contract,50,7.0,84566.0
+1086,Data Scientist,Entry,Small,India,Part-time,100,3.0,32501.0
+1087,Machine Learning Engineer,Entry,Medium,Canada,Part-time,50,5.0,36845.0
+1088,AI Engineer,Executive,Large,Australia,Full-time,100,10.0,176413.0
+1089,Data Analyst,Entry,Medium,Australia,Full-time,50,2.0,27990.0
+1090,Data Analyst,Executive,Medium,India,Part-time,0,10.0,179628.0
+1091,Data Scientist,Mid,Large,Canada,Full-time,0,11.0,108230.0
+1092,Data Engineer,Entry,Medium,India,Part-time,0,10.0,79474.0
+1093,AI Engineer,Entry,Large,Canada,Part-time,100,5.0,52754.0
+1094,Business Intelligence Analyst,Entry,Medium,Australia,Contract,0,11.0,83312.0
+1095,Data Analyst,Senior,Large,Germany,Full-time,50,10.0,131636.0
+1096,Data Scientist,Mid,Large,USA,Full-time,100,8.0,98227.0
+1097,Business Intelligence Analyst,Mid,Small,Germany,Full-time,50,8.0,94707.0
+1098,Data Engineer,Mid,Large,USA,Contract,100,9.0,102215.0
+1099,AI Engineer,Entry,Large,Australia,Contract,50,2.0,25538.0
+1100,Data Engineer,Mid,Medium,Germany,Contract,50,2.0,60317.0
+1101,Data Analyst,Entry,Large,Germany,Full-time,100,3.0,37454.0
+1102,Business Intelligence Analyst,Senior,Small,India,Full-time,100,11.0,88269.0
+1103,Business Intelligence Analyst,Mid,Medium,UK,Full-time,0,6.0,78455.0
+1104,Business Intelligence Analyst,Mid,Medium,Australia,Contract,0,2.0,65059.0
+1105,Data Analyst,Mid,Small,Canada,Contract,50,9.0,100630.0
+1106,Data Analyst,Mid,Medium,Australia,Part-time,50,7.0,76286.0
+1107,Data Engineer,Executive,Medium,Canada,Contract,50,10.0,171529.0
+1108,Machine Learning Engineer,Mid,Medium,Canada,Part-time,100,7.0,85000.0
+1109,Data Engineer,Entry,Medium,USA,Full-time,100,5.0,41655.0
+1110,AI Engineer,Mid,Small,Canada,Contract,0,3.0,56877.0
+1111,Data Scientist,Entry,Small,Canada,Full-time,50,10.0,69941.0
+1112,Business Intelligence Analyst,Entry,Medium,India,Full-time,0,11.0,83862.0
+1113,Machine Learning Engineer,Executive,Medium,Germany,Full-time,100,10.0,183055.0
+1114,Data Scientist,Senior,Small,Australia,Full-time,100,4.0,116484.0
+1115,Machine Learning Engineer,Executive,Small,Australia,Contract,100,11.0,178087.0
+1116,Data Engineer,Mid,Small,Canada,Full-time,0,1.0,50828.0
+1117,Data Analyst,Mid,Medium,UK,Part-time,100,12.0,118675.0
+1118,Business Intelligence Analyst,Entry,Medium,Australia,Contract,50,5.0,52077.0
+1119,Data Engineer,Entry,Large,Canada,Full-time,0,2.0,88269.0
+1120,Data Scientist,Senior,Small,USA,Contract,100,14.0,161432.0
+1121,Data Scientist,Mid,Medium,USA,Part-time,0,5.0,68491.0
+1122,Data Scientist,Senior,Small,India,Full-time,0,11.0,148358.0
+1123,Data Scientist,Senior,Medium,Canada,Part-time,100,4.0,113354.0
+1124,Data Scientist,Entry,Small,India,Full-time,100,13.0,88269.0
+1125,Machine Learning Engineer,Mid,Medium,UK,Part-time,0,1.0,47268.0
+1126,Data Engineer,Mid,Large,Canada,Full-time,0,14.0,115632.0
+1127,Business Intelligence Analyst,Entry,Large,India,Contract,100,11.0,68783.0
+1128,Data Analyst,Senior,Small,India,Full-time,50,12.0,154479.0
+1129,Data Analyst,Mid,Medium,Australia,Contract,0,13.0,120387.0
+1130,Data Engineer,Entry,Medium,India,Full-time,0,4.0,35969.0
+1131,Data Engineer,Mid,Small,Canada,Full-time,50,4.0,88269.0
+1132,Data Analyst,Executive,Medium,India,Part-time,100,13.0,193850.0
+1133,Data Analyst,Entry,Small,India,Part-time,100,8.0,65172.0
+1134,Machine Learning Engineer,Senior,Medium,India,Part-time,50,10.0,147402.0
+1135,AI Engineer,Entry,Small,Australia,Full-time,100,7.0,63337.0
+1136,Business Intelligence Analyst,Senior,Medium,Canada,Full-time,100,11.0,138657.0
+1137,Data Scientist,Senior,Small,India,Full-time,0,11.0,153680.0
+1138,AI Engineer,Mid,Medium,USA,Contract,0,6.0,87158.0
+1139,Data Engineer,Mid,Large,Canada,Contract,0,14.0,129195.0
+1140,Data Analyst,Senior,Medium,Australia,Full-time,50,14.0,159572.0
+1141,AI Engineer,Mid,Small,USA,Part-time,100,7.0,98182.0
+1142,Business Intelligence Analyst,Senior,Large,Germany,Part-time,100,12.0,152979.0
+1143,Data Engineer,Entry,Medium,Canada,Part-time,0,7.0,87867.0
+1144,Data Scientist,Senior,Large,Germany,Full-time,0,13.0,88269.0
+1145,Data Scientist,Senior,Medium,India,Part-time,50,2.0,103006.0
+1146,Business Intelligence Analyst,Senior,Large,Australia,Full-time,100,9.0,129329.0
+1147,Business Intelligence Analyst,Entry,Small,India,Contract,50,3.0,28097.0
+1148,Data Analyst,Mid,Medium,Australia,Part-time,100,5.0,66404.0
+1149,Data Scientist,Mid,Medium,UK,Contract,50,7.0,55101.0
+1150,Data Engineer,Mid,Small,India,Part-time,0,10.0,91369.0
+1151,AI Engineer,Mid,Large,Germany,Full-time,50,8.0,86665.0
+1152,Data Engineer,Entry,Small,Australia,Full-time,50,7.0,63448.0
+1153,Machine Learning Engineer,Senior,Small,India,Full-time,0,5.0,107765.0
+1154,Machine Learning Engineer,Mid,Large,Canada,Full-time,100,3.0,74201.0
+1155,Business Intelligence Analyst,Entry,Small,Australia,Part-time,100,6.0,40716.0
+1156,Data Analyst,Mid,Medium,Australia,Contract,0,12.0,113850.0
+1157,Machine Learning Engineer,Mid,Medium,India,Full-time,50,14.0,111711.0
+1158,Data Scientist,Entry,Medium,UK,Part-time,50,10.0,66261.0
+1159,Data Engineer,Executive,Small,India,Contract,50,2.0,146392.0
+1160,Data Engineer,Senior,Medium,Germany,Full-time,100,9.0,131086.0
+1161,Business Intelligence Analyst,Mid,Medium,Germany,Contract,50,14.0,124362.0
+1162,AI Engineer,Entry,Medium,Australia,Full-time,100,7.0,56223.0
+1163,Business Intelligence Analyst,Senior,Medium,Australia,Contract,50,0.0,96220.0
+1164,AI Engineer,Mid,Medium,India,Contract,0,2.0,63392.0
+1165,Business Intelligence Analyst,Mid,Medium,Germany,Full-time,0,10.0,92246.0
+1166,Business Intelligence Analyst,Mid,Small,Germany,Part-time,100,4.0,88269.0
+1167,Business Intelligence Analyst,Mid,Medium,UK,Contract,100,4.0,77234.0
+1168,AI Engineer,Mid,Medium,Canada,Full-time,0,9.0,102491.0
+1169,AI Engineer,Mid,Large,UK,Contract,0,13.0,121683.0
+1170,Business Intelligence Analyst,Mid,Small,USA,Contract,50,1.0,54669.0
+1171,Machine Learning Engineer,Senior,Small,UK,Part-time,0,9.0,126082.0
+1172,Data Analyst,Mid,Small,India,Contract,100,7.0,86148.0
+1173,Data Analyst,Senior,Small,Canada,Contract,0,4.0,108167.0
+1174,Data Analyst,Senior,Medium,India,Full-time,100,6.0,119557.0
+1175,AI Engineer,Mid,Medium,USA,Full-time,100,14.0,129184.0
+1176,AI Engineer,Mid,Large,Canada,Part-time,50,6.0,81728.0
+1177,Machine Learning Engineer,Mid,Large,Australia,Contract,50,13.0,108951.0
+1178,Data Analyst,Mid,Small,Germany,Contract,50,4.0,74677.0
+1179,Data Analyst,Senior,Large,UK,Contract,50,7.0,130969.0
+1180,Business Intelligence Analyst,Mid,Large,India,Part-time,0,8.0,88967.0
+1181,AI Engineer,Executive,Small,USA,Contract,50,3.0,141768.0
+1182,Data Analyst,Entry,Small,Germany,Full-time,0,3.0,42836.0
+1183,Data Engineer,Entry,Large,UK,Part-time,50,7.0,63065.0
+1184,Machine Learning Engineer,Mid,Medium,Germany,Full-time,50,0.0,88269.0
+1185,Data Engineer,Entry,Large,UK,Full-time,100,14.0,82303.0
+1186,Data Engineer,Entry,Large,Australia,Part-time,0,3.0,40163.0
+1187,Machine Learning Engineer,Mid,Medium,Canada,Full-time,100,5.0,72157.0
+1188,Data Engineer,Entry,Medium,Germany,Contract,50,12.0,88235.0
+1189,Data Analyst,Entry,Small,Germany,Part-time,0,3.0,88269.0
+1190,AI Engineer,Executive,Small,Germany,Full-time,50,5.0,161129.0
+1191,Machine Learning Engineer,Entry,Large,Canada,Contract,100,4.0,39519.0
+1192,Business Intelligence Analyst,Senior,Medium,USA,Contract,0,13.0,145244.0
+1193,Data Engineer,Senior,Small,India,Full-time,100,8.0,128948.0
+1194,Machine Learning Engineer,Senior,Large,Australia,Contract,50,9.0,134015.0
+1195,Data Scientist,Entry,Medium,Germany,Part-time,50,8.0,61019.0
+1196,Data Scientist,Senior,Large,Canada,Full-time,50,3.0,97779.0
+1197,AI Engineer,Mid,Small,USA,Contract,0,12.0,118230.0
+1198,Data Analyst,Mid,Small,UK,Contract,100,13.0,118723.0
+1199,AI Engineer,Mid,Medium,Canada,Full-time,100,3.0,67803.0
+1200,AI Engineer,Senior,Large,Australia,Full-time,50,7.0,151857.0
+1201,AI Engineer,Mid,Medium,Australia,Full-time,100,7.0,88698.0
+1202,AI Engineer,Senior,Small,UK,Full-time,0,9.0,126792.0
+1203,Business Intelligence Analyst,Mid,Small,Germany,Part-time,50,14.0,125376.0
+1204,Business Intelligence Analyst,Senior,Large,Australia,Full-time,50,3.0,113118.0
+1205,Machine Learning Engineer,Executive,Large,USA,Part-time,50,1.0,138117.0
+1206,Data Scientist,Entry,Large,Canada,Part-time,0,12.0,88269.0
+1207,AI Engineer,Executive,Medium,USA,Full-time,50,12.0,185188.0
+1208,Machine Learning Engineer,Entry,Large,Germany,Part-time,50,13.0,91018.0
+1209,Data Scientist,Entry,Large,USA,Full-time,50,14.0,88269.0
+1210,Data Engineer,Entry,Small,USA,Full-time,50,1.0,20281.0
+1211,Data Analyst,Mid,Small,India,Contract,100,0.0,40944.0
+1212,Business Intelligence Analyst,Mid,Large,USA,Full-time,50,4.0,61511.0
+1213,Data Engineer,Entry,Large,UK,Contract,0,14.0,92718.0
+1214,Data Scientist,Entry,Small,Canada,Part-time,50,5.0,52242.0
+1215,Data Engineer,Senior,Large,India,Contract,50,8.0,139944.0
+1216,Data Analyst,Senior,Medium,Canada,Part-time,100,4.0,108369.0
+1217,Data Scientist,Senior,Medium,Canada,Full-time,50,12.0,152120.0
+1218,Data Engineer,Senior,Medium,Germany,Part-time,100,5.0,118721.0
+1219,Business Intelligence Analyst,Senior,Large,Germany,Part-time,0,5.0,107615.0
+1220,Business Intelligence Analyst,Entry,Small,India,Full-time,100,2.0,37997.0
+1221,Machine Learning Engineer,Mid,Large,Australia,Part-time,50,11.0,110629.0
+1222,Data Engineer,Senior,Large,Germany,Full-time,0,3.0,97840.0
+1223,AI Engineer,Entry,Small,Germany,Contract,50,0.0,24051.0
+1224,Data Engineer,Mid,Small,Germany,Full-time,100,3.0,56774.0
+1225,Data Scientist,Entry,Small,Canada,Full-time,0,0.0,23262.0
+1226,Data Scientist,Mid,Medium,India,Part-time,0,14.0,113871.0
+1227,Data Engineer,Mid,Large,Canada,Contract,100,4.0,68273.0
+1228,Data Analyst,Mid,Small,UK,Full-time,100,10.0,107229.0
+1229,Business Intelligence Analyst,Mid,Large,Canada,Contract,0,10.0,99408.0
+1230,Data Scientist,Mid,Medium,UK,Contract,0,7.0,78260.0
+1231,Business Intelligence Analyst,Entry,Medium,USA,Part-time,100,7.0,48145.0
+1232,Data Scientist,Entry,Small,USA,Full-time,50,4.0,37802.0
+1233,Machine Learning Engineer,Senior,Small,UK,Part-time,0,13.0,147263.0
+1234,AI Engineer,Mid,Large,UK,Full-time,100,9.0,93155.0
+1235,Data Scientist,Entry,Small,Canada,Contract,50,1.0,15922.0
+1236,Business Intelligence Analyst,Senior,Large,UK,Full-time,0,11.0,141695.0
+1237,Machine Learning Engineer,Entry,Small,India,Full-time,0,5.0,40758.0
+1238,Data Scientist,Mid,Large,USA,Contract,100,0.0,52576.0
+1239,Data Analyst,Entry,Large,USA,Contract,50,6.0,59014.0
+1240,AI Engineer,Senior,Large,Australia,Full-time,0,7.0,137816.0
+1241,Data Scientist,Mid,Large,UK,Part-time,50,3.0,62556.0
+1242,Machine Learning Engineer,Entry,Medium,Germany,Full-time,50,4.0,46225.0
+1243,Data Analyst,Senior,Large,Germany,Contract,0,5.0,110930.0
+1244,Data Engineer,Mid,Small,UK,Part-time,50,10.0,101633.0
+1245,Machine Learning Engineer,Entry,Medium,India,Contract,0,0.0,13512.0
+1246,Machine Learning Engineer,Entry,Medium,Germany,Contract,50,8.0,56066.0
+1247,Data Analyst,Entry,Large,Australia,Part-time,0,9.0,68207.0
+1248,Machine Learning Engineer,Entry,Medium,UK,Contract,100,3.0,88269.0
+1249,Data Analyst,Mid,Large,India,Contract,0,7.0,77060.0
+1250,Data Scientist,Senior,Small,India,Contract,0,4.0,114013.0
+1251,Data Analyst,Mid,Large,Canada,Contract,0,10.0,109418.0
+1252,Data Analyst,Entry,Medium,India,Contract,50,7.0,47387.0
+1253,AI Engineer,Entry,Small,Germany,Contract,100,14.0,88031.0
+1254,Data Analyst,Entry,Large,Germany,Contract,50,0.0,11799.0
+1255,Data Analyst,Mid,Small,UK,Contract,50,7.0,77780.0
+1256,Data Engineer,Senior,Small,UK,Contract,0,10.0,131127.0
+1257,Data Scientist,Entry,Medium,India,Full-time,50,12.0,77365.0
+1258,AI Engineer,Senior,Small,Australia,Full-time,0,10.0,144635.0
+1259,Data Engineer,Senior,Medium,USA,Contract,100,3.0,102611.0
+1260,Business Intelligence Analyst,Mid,Small,Canada,Full-time,50,1.0,57646.0
+1261,Data Scientist,Senior,Large,USA,Part-time,50,10.0,137535.0
+1262,Data Scientist,Mid,Small,India,Full-time,50,5.0,79504.0
+1263,Business Intelligence Analyst,Mid,Large,India,Contract,0,1.0,54364.0
+1264,Data Analyst,Mid,Large,USA,Contract,0,7.0,62808.0
+1265,Data Engineer,Mid,Small,Canada,Full-time,50,1.0,58055.0
+1266,Machine Learning Engineer,Entry,Large,USA,Contract,50,2.0,24297.0
+1267,AI Engineer,Mid,Small,UK,Part-time,100,10.0,101209.0
+1268,Machine Learning Engineer,Entry,Small,Germany,Part-time,100,5.0,35448.0
+1269,Business Intelligence Analyst,Mid,Large,Australia,Contract,100,0.0,45008.0
+1270,Data Scientist,Entry,Large,UK,Part-time,100,7.0,52177.0
+1271,Data Scientist,Senior,Medium,Germany,Part-time,100,2.0,106820.0
+1272,AI Engineer,Senior,Large,Australia,Full-time,0,6.0,116012.0
+1273,Data Scientist,Mid,Medium,Australia,Part-time,100,1.0,46620.0
+1274,Data Scientist,Entry,Large,Australia,Full-time,100,13.0,88584.0
+1275,AI Engineer,Senior,Small,India,Contract,50,5.0,105948.0
+1276,Data Engineer,Senior,Large,Australia,Full-time,0,7.0,124319.0
+1277,Data Engineer,Senior,Small,India,Contract,100,14.0,166575.0
+1278,AI Engineer,Entry,Small,USA,Contract,100,14.0,92204.0
+1279,Business Intelligence Analyst,Mid,Small,Canada,Contract,100,14.0,121952.0
+1280,Data Scientist,Entry,Medium,USA,Contract,50,0.0,27787.0
+1281,Data Scientist,Entry,Large,UK,Contract,50,10.0,78374.0
+1282,Business Intelligence Analyst,Senior,Small,UK,Full-time,50,10.0,131104.0
+1283,Data Engineer,Senior,Small,USA,Contract,100,12.0,140548.0
+1284,Data Analyst,Mid,Medium,Canada,Part-time,50,8.0,91640.0
+1285,Data Analyst,Senior,Large,USA,Part-time,100,4.0,107903.0
+1286,Data Analyst,Mid,Large,Australia,Contract,0,4.0,78168.0
+1287,Data Engineer,Mid,Medium,India,Part-time,100,12.0,110613.0
+1288,Data Engineer,Mid,Medium,India,Full-time,50,11.0,112188.0
+1289,Business Intelligence Analyst,Senior,Large,India,Full-time,0,4.0,108990.0
+1290,Data Scientist,Entry,Medium,Australia,Contract,100,5.0,46467.0
+1291,Business Intelligence Analyst,Senior,Large,Australia,Contract,0,1.0,89238.0
+1292,Business Intelligence Analyst,Senior,Large,UK,Contract,0,5.0,124644.0
+1293,Data Engineer,Entry,Small,UK,Part-time,0,13.0,79367.0
+1294,Data Analyst,Mid,Small,Australia,Part-time,100,10.0,95651.0
+1295,Machine Learning Engineer,Senior,Large,Germany,Full-time,50,3.0,111204.0
+1296,Data Scientist,Mid,Large,India,Part-time,100,7.0,94755.0
+1297,Data Engineer,Senior,Large,India,Full-time,50,12.0,142093.0
+1298,Data Analyst,Senior,Large,Germany,Part-time,100,10.0,134001.0
+1299,Machine Learning Engineer,Mid,Large,Canada,Full-time,100,8.0,88269.0
+1300,Machine Learning Engineer,Mid,Large,India,Contract,100,8.0,91272.0
+1301,Data Engineer,Senior,Medium,USA,Part-time,50,7.0,88269.0
+1302,AI Engineer,Mid,Large,Australia,Full-time,100,2.0,68901.0
+1303,Data Scientist,Entry,Medium,Australia,Part-time,0,7.0,63697.0
+1304,Machine Learning Engineer,Entry,Medium,Germany,Contract,100,10.0,77480.0
+1305,Data Engineer,Mid,Large,India,Full-time,0,10.0,102371.0
+1306,Data Engineer,Senior,Large,Canada,Part-time,50,3.0,104236.0
+1307,Data Analyst,Senior,Medium,India,Part-time,50,7.0,93769.0
+1308,AI Engineer,Mid,Medium,Australia,Contract,100,8.0,87061.0
+1309,Data Scientist,Entry,Large,UK,Contract,100,4.0,48588.0
+1310,Business Intelligence Analyst,Entry,Large,USA,Full-time,100,5.0,38902.0
+1311,Data Analyst,Senior,Medium,Germany,Part-time,0,2.0,91352.0
+1312,Machine Learning Engineer,Entry,Medium,UK,Part-time,50,10.0,61596.0
+1313,Machine Learning Engineer,Entry,Medium,Canada,Contract,0,9.0,63767.0
+1314,Data Analyst,Entry,Small,UK,Contract,0,7.0,45679.0
+1315,Data Engineer,Mid,Medium,UK,Full-time,100,14.0,122020.0
+1316,Machine Learning Engineer,Senior,Small,Canada,Part-time,100,6.0,122096.0
+1317,AI Engineer,Entry,Large,UK,Part-time,0,0.0,21385.0
+1318,Data Scientist,Mid,Large,Germany,Full-time,0,9.0,93509.0
+1319,AI Engineer,Mid,Medium,Australia,Full-time,100,11.0,100734.0
+1320,Machine Learning Engineer,Executive,Large,India,Contract,100,4.0,155675.0
+1321,Business Intelligence Analyst,Entry,Large,UK,Contract,0,9.0,67693.0
+1322,Data Scientist,Mid,Large,Germany,Full-time,100,8.0,99380.0
+1323,Data Scientist,Mid,Large,India,Full-time,100,11.0,102407.0
+1324,Data Analyst,Senior,Small,India,Part-time,0,10.0,141786.0
+1325,Data Analyst,Mid,Small,UK,Full-time,0,11.0,97542.0
+1326,Business Intelligence Analyst,Entry,Medium,India,Full-time,50,5.0,52062.0
+1327,Data Engineer,Mid,Medium,Australia,Part-time,0,7.0,80366.0
+1328,Data Scientist,Senior,Medium,UK,Full-time,100,9.0,132410.0
+1329,Business Intelligence Analyst,Entry,Large,Canada,Contract,0,7.0,19835.0
+1330,Data Analyst,Senior,Large,India,Contract,0,9.0,138647.0
+1331,Data Analyst,Entry,Small,UK,Part-time,0,10.0,65541.0
+1332,Data Scientist,Mid,Small,India,Full-time,50,6.0,87218.0
+1333,AI Engineer,Mid,Medium,Germany,Contract,50,2.0,60433.0
+1334,Machine Learning Engineer,Senior,Small,India,Contract,100,8.0,130547.0
+1335,Data Analyst,Mid,Small,India,Contract,50,5.0,74860.0
+1336,Data Engineer,Senior,Small,Australia,Contract,0,4.0,110745.0
+1337,Data Engineer,Senior,Small,UK,Full-time,50,7.0,121818.0
+1338,Data Analyst,Mid,Small,India,Full-time,0,7.0,89101.0
+1339,AI Engineer,Senior,Medium,Germany,Full-time,50,11.0,140028.0
+1340,AI Engineer,Senior,Medium,Canada,Full-time,50,11.0,150798.0
+1341,Business Intelligence Analyst,Entry,Small,Australia,Contract,50,2.0,30954.0
+1342,Data Engineer,Mid,Medium,Germany,Part-time,0,1.0,57770.0
+1343,Business Intelligence Analyst,Senior,Large,UK,Part-time,50,14.0,159438.0
+1344,Data Engineer,Entry,Small,Canada,Contract,0,1.0,33156.0
+1345,Machine Learning Engineer,Senior,Large,India,Contract,0,13.0,163548.0
+1346,Machine Learning Engineer,Executive,Medium,USA,Part-time,100,4.0,147111.0
+1347,Data Scientist,Entry,Medium,Australia,Part-time,50,9.0,74219.0
+1348,Business Intelligence Analyst,Mid,Large,India,Contract,100,11.0,114049.0
+1349,Data Analyst,Mid,Medium,Germany,Contract,100,6.0,76113.0
+1350,Business Intelligence Analyst,Mid,Small,Germany,Full-time,0,7.0,77563.0
+1351,Data Analyst,Entry,Large,USA,Full-time,50,9.0,70889.0
+1352,AI Engineer,Entry,Small,UK,Part-time,0,14.0,88498.0
+1353,Business Intelligence Analyst,Mid,Large,Australia,Contract,0,7.0,83131.0
+1354,AI Engineer,Senior,Medium,Australia,Part-time,50,12.0,142696.0
+1355,Machine Learning Engineer,Senior,Large,India,Full-time,0,11.0,142704.0
+1356,Machine Learning Engineer,Mid,Large,Germany,Full-time,50,7.0,88269.0
+1357,Data Scientist,Entry,Small,Canada,Part-time,50,14.0,89765.0
+1358,Business Intelligence Analyst,Mid,Medium,Germany,Full-time,0,9.0,102524.0
+1359,AI Engineer,Entry,Small,India,Contract,0,11.0,75002.0
+1360,Data Analyst,Senior,Medium,Germany,Part-time,100,10.0,141390.0
+1361,Machine Learning Engineer,Senior,Small,USA,Contract,0,2.0,101668.0
+1362,Machine Learning Engineer,Senior,Large,Germany,Contract,50,13.0,163946.0
+1363,Data Analyst,Senior,Small,Germany,Full-time,100,10.0,149236.0
+1364,AI Engineer,Entry,Medium,Canada,Contract,50,1.0,31244.0
+1365,AI Engineer,Senior,Medium,USA,Part-time,100,12.0,146641.0
+1366,Business Intelligence Analyst,Mid,Large,India,Contract,0,3.0,55941.0
+1367,Business Intelligence Analyst,Senior,Medium,Germany,Contract,0,14.0,162815.0
+1368,Data Engineer,Entry,Small,Australia,Contract,0,0.0,16541.0
+1369,Data Engineer,Senior,Large,Canada,Contract,50,2.0,105624.0
+1370,Data Scientist,Senior,Medium,India,Contract,100,10.0,139966.0
+1371,Machine Learning Engineer,Entry,Medium,Germany,Full-time,50,8.0,51421.0
+1372,Business Intelligence Analyst,Mid,Small,India,Part-time,100,6.0,75765.0
+1373,AI Engineer,Senior,Small,India,Full-time,0,6.0,126819.0
+1374,Data Analyst,Mid,Large,Australia,Part-time,50,0.0,57223.0
+1375,AI Engineer,Entry,Medium,Canada,Part-time,0,6.0,44001.0
+1376,Machine Learning Engineer,Entry,Small,India,Part-time,50,9.0,88269.0
+1377,Data Engineer,Entry,Large,India,Part-time,0,6.0,45248.0
+1378,AI Engineer,Senior,Medium,UK,Part-time,50,3.0,99959.0
+1379,Data Scientist,Mid,Medium,USA,Contract,50,6.0,88034.0
+1380,Machine Learning Engineer,Entry,Large,India,Full-time,100,7.0,63645.0
+1381,Data Engineer,Mid,Large,India,Full-time,0,2.0,53889.0
+1382,Data Analyst,Mid,Small,Canada,Contract,100,12.0,101326.0
+1383,Data Engineer,Entry,Medium,Australia,Part-time,100,9.0,88269.0
+1384,Data Scientist,Mid,Medium,UK,Full-time,0,1.0,48358.0
+1385,Machine Learning Engineer,Mid,Medium,India,Contract,50,6.0,71585.0
+1386,Data Analyst,Mid,Large,India,Contract,100,4.0,88269.0
+1387,Data Scientist,Senior,Small,Canada,Full-time,0,4.0,111560.0
+1388,Data Engineer,Entry,Medium,Canada,Full-time,50,13.0,91772.0
+1389,Data Scientist,Mid,Large,Australia,Part-time,100,4.0,75818.0
+1390,Machine Learning Engineer,Mid,Medium,UK,Part-time,100,14.0,129175.0
+1391,Business Intelligence Analyst,Mid,Small,USA,Full-time,100,6.0,73332.0
+1392,Data Scientist,Mid,Medium,Australia,Part-time,50,7.0,97087.0
+1393,Data Scientist,Mid,Small,India,Contract,100,10.0,92820.0
+1394,Data Engineer,Senior,Small,Germany,Part-time,50,7.0,130472.0
+1395,Data Engineer,Mid,Medium,India,Part-time,100,5.0,69959.0
+1396,Data Analyst,Mid,Medium,UK,Contract,0,6.0,87443.0
+1397,Data Engineer,Senior,Small,Australia,Part-time,100,8.0,132366.0
+1398,AI Engineer,Mid,Large,India,Contract,0,13.0,106301.0
+1399,Machine Learning Engineer,Entry,Small,UK,Part-time,0,10.0,70551.0
+1400,Machine Learning Engineer,Entry,Medium,UK,Full-time,0,5.0,39112.0
+1401,Business Intelligence Analyst,Entry,Medium,UK,Part-time,50,0.0,22763.0
+1402,Business Intelligence Analyst,Senior,Large,India,Full-time,0,3.0,106774.0
+1403,Machine Learning Engineer,Senior,Small,India,Full-time,100,7.0,131882.0
+1404,Business Intelligence Analyst,Senior,Small,Canada,Full-time,50,6.0,118620.0
+1405,Data Analyst,Mid,Small,India,Full-time,0,2.0,57245.0
+1406,Data Engineer,Mid,Medium,UK,Full-time,50,9.0,88269.0
+1407,Machine Learning Engineer,Entry,Small,Australia,Contract,50,2.0,22105.0
+1408,Business Intelligence Analyst,Mid,Large,Germany,Contract,50,10.0,99745.0
+1409,Machine Learning Engineer,Mid,Medium,India,Contract,100,2.0,55630.0
+1410,AI Engineer,Executive,Medium,UK,Full-time,0,7.0,178206.0
+1411,Data Scientist,Entry,Small,Germany,Part-time,50,14.0,98953.0
+1412,Data Engineer,Mid,Large,Canada,Contract,50,0.0,42628.0
+1413,Machine Learning Engineer,Mid,Medium,UK,Part-time,50,14.0,120068.0
+1414,Data Scientist,Mid,Medium,Germany,Part-time,0,9.0,98394.0
+1415,Business Intelligence Analyst,Mid,Small,UK,Full-time,50,0.0,41067.0
+1416,Data Scientist,Senior,Small,India,Full-time,50,5.0,122890.0
+1417,Data Engineer,Entry,Large,Australia,Full-time,100,13.0,94397.0
+1418,Machine Learning Engineer,Senior,Small,Germany,Contract,0,13.0,160245.0
+1419,AI Engineer,Mid,Large,India,Full-time,100,0.0,49859.0
+1420,Business Intelligence Analyst,Senior,Medium,India,Contract,0,4.0,106642.0
+1421,Machine Learning Engineer,Senior,Large,India,Contract,0,3.0,110377.0
+1422,Data Engineer,Mid,Large,Australia,Contract,0,4.0,64066.0
+1423,Business Intelligence Analyst,Entry,Large,Germany,Contract,100,6.0,40947.0
+1424,Data Analyst,Executive,Medium,Australia,Full-time,100,5.0,146171.0
+1425,Data Scientist,Mid,Small,Australia,Contract,100,11.0,88269.0
+1426,Data Engineer,Senior,Medium,USA,Full-time,100,8.0,126114.0
+1427,Data Analyst,Entry,Small,Germany,Full-time,50,5.0,35171.0
+1428,Machine Learning Engineer,Mid,Large,USA,Contract,50,8.0,92818.0
+1429,AI Engineer,Senior,Large,UK,Full-time,50,7.0,104335.0
+1430,Business Intelligence Analyst,Senior,Large,Australia,Part-time,0,0.0,90051.0
+1431,Data Scientist,Mid,Large,UK,Full-time,50,0.0,46209.0
+1432,Business Intelligence Analyst,Senior,Large,Germany,Full-time,0,9.0,135380.0
+1433,Machine Learning Engineer,Mid,Small,Australia,Contract,100,6.0,73577.0
+1434,Business Intelligence Analyst,Entry,Small,UK,Contract,0,12.0,78380.0
+1435,Data Scientist,Mid,Large,Canada,Full-time,0,12.0,104076.0
+1436,Machine Learning Engineer,Mid,Medium,India,Contract,50,12.0,100157.0
+1437,Business Intelligence Analyst,Senior,Medium,Australia,Part-time,100,2.0,97777.0
+1438,AI Engineer,Mid,Large,India,Part-time,100,1.0,64101.0
+1439,Data Engineer,Entry,Small,USA,Contract,50,13.0,83437.0
+1440,Machine Learning Engineer,Entry,Medium,UK,Full-time,100,5.0,88269.0
+1441,Data Engineer,Mid,Medium,USA,Part-time,100,5.0,80279.0
+1442,Machine Learning Engineer,Mid,Medium,Australia,Part-time,100,12.0,88269.0
+1443,AI Engineer,Senior,Large,India,Full-time,50,6.0,117200.0
+1444,Data Engineer,Mid,Medium,India,Contract,100,4.0,78761.0
+1445,Data Analyst,Senior,Medium,UK,Part-time,0,7.0,129847.0
+1446,Data Scientist,Executive,Medium,Australia,Full-time,0,6.0,88269.0
+1447,Data Analyst,Mid,Medium,Canada,Full-time,100,1.0,46810.0
+1448,Business Intelligence Analyst,Senior,Small,Canada,Part-time,50,14.0,157895.0
+1449,AI Engineer,Senior,Large,UK,Contract,50,7.0,98510.0
+1450,Data Analyst,Mid,Large,Australia,Part-time,50,12.0,106953.0
+1451,Machine Learning Engineer,Entry,Small,UK,Full-time,100,13.0,94414.0
+1452,Business Intelligence Analyst,Mid,Small,Australia,Part-time,100,8.0,86323.0
+1453,Business Intelligence Analyst,Mid,Large,USA,Contract,0,4.0,65605.0
+1454,Data Analyst,Senior,Medium,UK,Full-time,50,11.0,140891.0
+1455,Data Analyst,Mid,Medium,Australia,Contract,0,10.0,93076.0
+1456,AI Engineer,Senior,Large,Canada,Part-time,0,4.0,118728.0
+1457,Data Scientist,Mid,Medium,Australia,Part-time,50,11.0,95619.0
+1458,Data Analyst,Entry,Small,Australia,Contract,100,9.0,66094.0
+1459,Data Analyst,Executive,Medium,India,Part-time,100,3.0,137407.0
+1460,Data Engineer,Mid,Medium,India,Contract,0,1.0,57644.0
+1461,Machine Learning Engineer,Mid,Medium,USA,Part-time,0,4.0,63004.0
+1462,Data Engineer,Mid,Large,USA,Contract,0,1.0,88269.0
+1463,Data Engineer,Entry,Small,India,Contract,0,11.0,84980.0
+1464,Business Intelligence Analyst,Mid,Medium,Germany,Full-time,50,6.0,74039.0
+1465,Data Scientist,Mid,Large,UK,Full-time,0,10.0,91304.0
+1466,Machine Learning Engineer,Mid,Medium,India,Contract,0,8.0,85630.0
+1467,AI Engineer,Executive,Small,UK,Part-time,100,7.0,167282.0
+1468,AI Engineer,Mid,Medium,Germany,Part-time,100,10.0,93307.0
+1469,Data Analyst,Entry,Small,USA,Part-time,100,5.0,52745.0
+1470,Data Analyst,Mid,Medium,Germany,Contract,50,0.0,46665.0
+1471,AI Engineer,Senior,Small,Canada,Contract,50,12.0,144294.0
+1472,Data Analyst,Entry,Medium,Canada,Contract,100,7.0,36787.0
+1473,Data Scientist,Entry,Small,UK,Contract,100,4.0,31073.0
+1474,Data Engineer,Entry,Medium,UK,Full-time,0,3.0,28599.0
+1475,Data Analyst,Entry,Medium,India,Contract,0,11.0,80389.0
+1476,Business Intelligence Analyst,Senior,Large,India,Part-time,50,5.0,116345.0
+1477,Data Analyst,Senior,Large,Canada,Full-time,50,5.0,117318.0
+1478,Machine Learning Engineer,Mid,Small,USA,Part-time,0,13.0,121107.0
+1479,Data Scientist,Mid,Medium,Germany,Contract,100,5.0,68055.0
+1480,Machine Learning Engineer,Mid,Small,India,Full-time,0,1.0,88269.0
+1481,Machine Learning Engineer,Executive,Large,Australia,Contract,50,14.0,196320.0
+1482,Business Intelligence Analyst,Executive,Small,India,Full-time,50,13.0,191513.0
+1483,Data Scientist,Mid,Small,USA,Part-time,0,6.0,74642.0
+1484,Data Scientist,Senior,Large,USA,Contract,0,13.0,154321.0
+1485,Data Scientist,Senior,Medium,UK,Contract,0,3.0,109432.0
+1486,Data Scientist,Mid,Small,Germany,Full-time,50,12.0,104466.0
+1487,Data Scientist,Entry,Large,USA,Full-time,100,14.0,91458.0
+1488,Business Intelligence Analyst,Mid,Medium,India,Contract,0,11.0,110879.0
+1489,Data Analyst,Senior,Large,India,Full-time,50,8.0,138855.0
+1490,Machine Learning Engineer,Executive,Small,Canada,Contract,50,9.0,173284.0
+1491,Data Scientist,Senior,Medium,USA,Full-time,50,1.0,95758.0
+1492,Data Analyst,Senior,Medium,Australia,Part-time,0,4.0,117665.0
+1493,Data Analyst,Mid,Large,UK,Full-time,0,13.0,115991.0
+1494,Machine Learning Engineer,Senior,Large,Germany,Part-time,100,3.0,114561.0
+1495,Business Intelligence Analyst,Senior,Large,Australia,Full-time,50,8.0,124511.0
+1496,AI Engineer,Mid,Medium,UK,Full-time,0,3.0,65796.0
+1497,AI Engineer,Mid,Medium,India,Contract,50,7.0,78881.0
+1498,Data Analyst,Senior,Small,Australia,Full-time,50,7.0,130668.0
+1499,Data Engineer,Entry,Medium,UK,Full-time,100,5.0,37413.0
+1500,Data Engineer,Senior,Small,India,Part-time,0,5.0,106544.0
+1501,Machine Learning Engineer,Entry,Large,India,Full-time,0,10.0,75729.0
+1502,AI Engineer,Mid,Large,India,Contract,50,7.0,79784.0
+1503,Data Analyst,Senior,Medium,India,Part-time,50,11.0,140626.0
+1504,Business Intelligence Analyst,Entry,Large,India,Contract,100,12.0,74514.0
+1505,AI Engineer,Entry,Large,Canada,Contract,100,11.0,66145.0
+1506,Data Analyst,Mid,Medium,India,Contract,100,9.0,94102.0
+1507,Data Analyst,Senior,Small,UK,Contract,100,8.0,131498.0
+1508,Data Scientist,Entry,Medium,Canada,Part-time,100,14.0,85450.0
+1509,Business Intelligence Analyst,Senior,Small,Canada,Full-time,100,4.0,117950.0
+1510,Data Scientist,Entry,Medium,USA,Contract,50,10.0,79389.0
+1511,Machine Learning Engineer,Executive,Medium,USA,Part-time,100,0.0,124507.0
+1512,Data Scientist,Executive,Large,USA,Contract,50,0.0,133535.0
+1513,Data Scientist,Mid,Medium,Germany,Full-time,50,14.0,88269.0
+1514,AI Engineer,Mid,Medium,USA,Part-time,0,1.0,58523.0
+1515,Data Engineer,Mid,Small,UK,Part-time,50,9.0,88992.0
+1516,Data Analyst,Mid,Large,Canada,Full-time,50,9.0,93522.0
+1517,Business Intelligence Analyst,Entry,Small,UK,Part-time,100,4.0,38027.0
+1518,Data Scientist,Entry,Small,Australia,Full-time,50,3.0,36972.0
+1519,Business Intelligence Analyst,Entry,Large,USA,Part-time,100,0.0,25305.0
+1520,Data Engineer,Mid,Large,Germany,Part-time,100,3.0,65793.0
+1521,Data Engineer,Entry,Large,Australia,Full-time,100,3.0,44361.0
+1522,Data Scientist,Mid,Medium,Germany,Full-time,0,9.0,85529.0
+1523,Machine Learning Engineer,Executive,Large,Australia,Part-time,100,3.0,154276.0
+1524,Data Scientist,Mid,Large,Canada,Part-time,50,0.0,44734.0
+1525,AI Engineer,Mid,Large,UK,Full-time,100,8.0,93898.0
+1526,Data Analyst,Mid,Small,India,Full-time,100,13.0,123909.0
+1527,Machine Learning Engineer,Senior,Small,UK,Part-time,100,2.0,102985.0
+1528,Data Scientist,Senior,Medium,USA,Part-time,0,12.0,153989.0
+1529,Business Intelligence Analyst,Senior,Small,India,Part-time,50,3.0,97742.0
+1530,Machine Learning Engineer,Executive,Medium,Germany,Full-time,0,4.0,144635.0
+1531,Machine Learning Engineer,Entry,Small,Canada,Part-time,50,12.0,74425.0
+1532,Data Scientist,Senior,Large,Canada,Contract,0,12.0,148661.0
+1533,Machine Learning Engineer,Senior,Small,Germany,Full-time,50,6.0,113830.0
+1534,Business Intelligence Analyst,Entry,Medium,USA,Part-time,0,5.0,35533.0
+1535,Data Engineer,Executive,Small,Germany,Full-time,100,4.0,154250.0
+1536,Machine Learning Engineer,Entry,Large,Australia,Contract,0,7.0,57247.0
+1537,Data Engineer,Mid,Medium,USA,Full-time,0,13.0,109087.0
+1538,Business Intelligence Analyst,Entry,Large,India,Part-time,100,0.0,88269.0
+1539,Data Scientist,Mid,Large,Germany,Contract,100,6.0,83293.0
+1540,Data Analyst,Senior,Medium,USA,Contract,50,11.0,144082.0
+1541,Machine Learning Engineer,Mid,Large,India,Part-time,50,5.0,67355.0
+1542,Data Analyst,Mid,Large,Germany,Part-time,50,10.0,91955.0
+1543,Business Intelligence Analyst,Mid,Small,Canada,Part-time,0,4.0,62971.0
+1544,Machine Learning Engineer,Senior,Large,Germany,Full-time,50,7.0,115539.0
+1545,Data Engineer,Entry,Large,UK,Full-time,0,2.0,27493.0
+1546,AI Engineer,Mid,Large,Germany,Full-time,0,7.0,58056.0
+1547,Data Analyst,Senior,Large,UK,Part-time,50,8.0,122836.0
+1548,Machine Learning Engineer,Senior,Medium,India,Part-time,50,7.0,89939.0
+1549,Data Analyst,Mid,Small,Germany,Full-time,0,12.0,103644.0
+1550,Machine Learning Engineer,Senior,Large,India,Contract,100,9.0,143681.0
+1551,Data Scientist,Senior,Large,India,Full-time,100,14.0,153166.0
+1552,Data Engineer,Senior,Medium,USA,Contract,0,2.0,99511.0
+1553,Data Analyst,Mid,Large,India,Part-time,50,7.0,75183.0
+1554,AI Engineer,Entry,Medium,India,Part-time,0,11.0,74475.0
+1555,AI Engineer,Entry,Small,Germany,Full-time,0,9.0,74230.0
+1556,Business Intelligence Analyst,Entry,Small,Germany,Full-time,50,8.0,61332.0
+1557,Machine Learning Engineer,Mid,Large,Canada,Part-time,100,12.0,115173.0
+1558,Data Analyst,Entry,Large,USA,Full-time,0,7.0,29988.0
+1559,Business Intelligence Analyst,Mid,Large,India,Part-time,100,5.0,69722.0
+1560,Data Analyst,Mid,Medium,USA,Part-time,100,6.0,85194.0
+1561,Machine Learning Engineer,Entry,Large,UK,Contract,50,14.0,97166.0
+1562,AI Engineer,Senior,Large,India,Full-time,0,0.0,97891.0
+1563,Data Scientist,Mid,Small,USA,Part-time,0,13.0,119072.0
+1564,AI Engineer,Entry,Large,Canada,Full-time,100,6.0,55976.0
+1565,Business Intelligence Analyst,Senior,Small,Canada,Contract,100,3.0,100855.0
+1566,Data Engineer,Entry,Large,India,Contract,50,4.0,43294.0
+1567,Data Scientist,Senior,Small,UK,Full-time,100,7.0,127046.0
+1568,Business Intelligence Analyst,Senior,Large,Canada,Full-time,50,3.0,95676.0
+1569,Machine Learning Engineer,Mid,Small,Canada,Part-time,0,14.0,114090.0
+1570,Data Scientist,Senior,Medium,UK,Contract,50,3.0,107498.0
+1571,Business Intelligence Analyst,Mid,Small,USA,Contract,100,7.0,87777.0
+1572,Machine Learning Engineer,Mid,Small,Canada,Contract,0,7.0,129070.0
+1573,AI Engineer,Entry,Small,Germany,Full-time,50,4.0,38382.0
+1574,Data Engineer,Entry,Large,Australia,Part-time,0,12.0,85006.0
+1575,Machine Learning Engineer,Senior,Large,Australia,Full-time,50,5.0,114034.0
+1576,Data Analyst,Mid,Large,Canada,Full-time,100,11.0,103526.0
+1577,Machine Learning Engineer,Mid,Medium,India,Full-time,100,10.0,103930.0
+1578,Machine Learning Engineer,Mid,Medium,USA,Part-time,0,13.0,106110.0
+1579,Data Engineer,Mid,Small,India,Full-time,0,4.0,76962.0
+1580,Data Analyst,Entry,Medium,Germany,Contract,0,0.0,26445.0
+1581,Business Intelligence Analyst,Mid,Small,USA,Contract,50,6.0,70386.0
+1582,Business Intelligence Analyst,Senior,Small,UK,Contract,100,5.0,123584.0
+1583,Machine Learning Engineer,Entry,Small,Germany,Part-time,0,1.0,27906.0
+1584,Data Analyst,Entry,Medium,Australia,Full-time,0,10.0,88269.0
+1585,Data Analyst,Entry,Large,Germany,Part-time,0,6.0,55033.0
+1586,Data Engineer,Mid,Medium,UK,Full-time,50,5.0,80708.0
+1587,AI Engineer,Senior,Small,Canada,Contract,0,4.0,106321.0
+1588,Business Intelligence Analyst,Entry,Small,UK,Full-time,0,7.0,53678.0
+1589,Data Engineer,Entry,Medium,UK,Full-time,50,4.0,41924.0
+1590,Data Scientist,Mid,Small,Canada,Full-time,50,10.0,103565.0
+1591,Business Intelligence Analyst,Senior,Small,Canada,Part-time,0,1.0,93732.0
+1592,Data Engineer,Mid,Medium,India,Full-time,0,5.0,70631.0
+1593,Business Intelligence Analyst,Mid,Medium,Canada,Full-time,50,13.0,115252.0
+1594,AI Engineer,Senior,Medium,Canada,Full-time,100,11.0,147438.0
+1595,Data Scientist,Mid,Small,UK,Part-time,50,0.0,45169.0
+1596,AI Engineer,Senior,Small,India,Part-time,100,4.0,106787.0
+1597,Data Scientist,Senior,Large,India,Part-time,0,13.0,150232.0
+1598,Machine Learning Engineer,Entry,Large,USA,Full-time,0,5.0,39288.0
+1599,Data Engineer,Entry,Medium,India,Contract,100,14.0,86734.0
+1600,Data Scientist,Entry,Large,Australia,Contract,50,6.0,57464.0
+1601,AI Engineer,Mid,Small,India,Contract,0,13.0,111240.0
+1602,Business Intelligence Analyst,Executive,Large,UK,Full-time,100,1.0,141581.0
+1603,Data Scientist,Mid,Small,Canada,Contract,50,0.0,47814.0
+1604,Data Engineer,Entry,Medium,Canada,Contract,100,5.0,45386.0
+1605,Data Scientist,Senior,Medium,UK,Contract,50,2.0,97851.0
+1606,Data Analyst,Mid,Small,Australia,Full-time,50,4.0,61600.0
+1607,Business Intelligence Analyst,Entry,Large,India,Contract,50,11.0,71866.0
+1608,Data Engineer,Mid,Medium,UK,Contract,50,14.0,113692.0
+1609,Data Engineer,Mid,Medium,USA,Full-time,100,10.0,109467.0
+1610,Machine Learning Engineer,Senior,Large,India,Part-time,100,12.0,140332.0
+1611,AI Engineer,Entry,Large,Germany,Contract,100,14.0,88269.0
+1612,Machine Learning Engineer,Entry,Small,USA,Part-time,100,1.0,29109.0
+1613,Data Engineer,Mid,Large,Australia,Contract,100,14.0,124847.0
+1614,Business Intelligence Analyst,Entry,Large,USA,Full-time,50,0.0,24507.0
+1615,Data Scientist,Mid,Large,UK,Part-time,0,0.0,49963.0
+1616,Data Scientist,Mid,Small,India,Part-time,0,12.0,106106.0
+1617,Business Intelligence Analyst,Mid,Small,Canada,Part-time,100,10.0,97333.0
+1618,Data Engineer,Senior,Medium,Australia,Part-time,100,3.0,111058.0
+1619,Data Scientist,Mid,Small,Australia,Contract,0,9.0,91655.0
+1620,Data Scientist,Entry,Medium,Germany,Contract,50,12.0,75308.0
+1621,Data Scientist,Mid,Large,USA,Part-time,100,1.0,64105.0
+1622,AI Engineer,Senior,Medium,Germany,Contract,50,7.0,81064.0
+1623,AI Engineer,Senior,Medium,India,Part-time,0,5.0,88269.0
+1624,Data Analyst,Entry,Large,India,Part-time,0,13.0,86115.0
+1625,Machine Learning Engineer,Executive,Medium,Germany,Full-time,100,3.0,88269.0
+1626,Business Intelligence Analyst,Mid,Small,Canada,Part-time,50,9.0,93512.0
+1627,Business Intelligence Analyst,Entry,Small,India,Contract,100,12.0,73957.0
+1628,Business Intelligence Analyst,Entry,Small,Germany,Part-time,0,11.0,83766.0
+1629,Data Analyst,Entry,Small,USA,Full-time,50,14.0,99615.0
+1630,AI Engineer,Senior,Medium,Germany,Contract,100,6.0,117008.0
+1631,Data Engineer,Entry,Medium,Germany,Full-time,100,10.0,76044.0
+1632,Data Engineer,Entry,Large,UK,Full-time,100,5.0,52884.0
+1633,Data Analyst,Senior,Medium,India,Part-time,0,4.0,114687.0
+1634,Data Engineer,Mid,Medium,Canada,Full-time,100,9.0,102952.0
+1635,Business Intelligence Analyst,Entry,Medium,Canada,Full-time,50,11.0,84665.0
+1636,Machine Learning Engineer,Entry,Large,UK,Contract,100,12.0,79711.0
+1637,Data Scientist,Entry,Small,Australia,Full-time,0,11.0,83249.0
+1638,AI Engineer,Entry,Medium,Canada,Part-time,100,11.0,74597.0
+1639,AI Engineer,Mid,Large,Germany,Part-time,0,11.0,110254.0
+1640,Data Analyst,Entry,Large,UK,Part-time,0,1.0,31388.0
+1641,AI Engineer,Entry,Large,USA,Full-time,50,4.0,44369.0
+1642,Business Intelligence Analyst,Senior,Small,India,Contract,50,8.0,127959.0
+1643,Data Engineer,Mid,Medium,India,Part-time,100,8.0,97552.0
+1644,Business Intelligence Analyst,Mid,Large,India,Full-time,0,7.0,63782.0
+1645,Data Analyst,Mid,Small,Germany,Part-time,0,6.0,89014.0
+1646,Business Intelligence Analyst,Mid,Large,USA,Part-time,50,9.0,91608.0
+1647,Data Engineer,Mid,Large,UK,Contract,50,13.0,105347.0
+1648,Machine Learning Engineer,Mid,Large,UK,Part-time,100,3.0,67412.0
+1649,Data Analyst,Mid,Large,India,Contract,0,12.0,110005.0
+1650,Machine Learning Engineer,Senior,Large,USA,Full-time,50,12.0,159726.0
+1651,Data Scientist,Entry,Small,USA,Part-time,100,2.0,88269.0
+1652,Machine Learning Engineer,Senior,Medium,USA,Full-time,0,7.0,132574.0
+1653,Data Scientist,Entry,Medium,Canada,Full-time,0,0.0,15272.0
+1654,Data Scientist,Senior,Medium,Canada,Full-time,50,2.0,106532.0
+1655,Machine Learning Engineer,Mid,Medium,India,Part-time,100,10.0,98694.0
+1656,Data Analyst,Senior,Small,USA,Contract,50,7.0,137253.0
+1657,Data Engineer,Entry,Small,Australia,Part-time,100,13.0,78521.0
+1658,Business Intelligence Analyst,Mid,Small,USA,Full-time,0,14.0,111300.0
+1659,Business Intelligence Analyst,Mid,Large,UK,Contract,100,8.0,92225.0
+1660,Data Engineer,Senior,Large,UK,Full-time,100,6.0,88269.0
+1661,Data Scientist,Mid,Large,India,Contract,100,2.0,62045.0
+1662,Data Scientist,Mid,Medium,Australia,Part-time,100,7.0,118835.0
+1663,Data Analyst,Mid,Large,USA,Contract,100,2.0,54385.0
+1664,AI Engineer,Mid,Medium,Australia,Part-time,50,3.0,69755.0
+1665,Machine Learning Engineer,Mid,Large,India,Full-time,100,6.0,72824.0
+1666,Data Scientist,Entry,Medium,UK,Contract,100,6.0,45964.0
+1667,Business Intelligence Analyst,Executive,Large,UK,Full-time,0,11.0,192370.0
+1668,Data Analyst,Senior,Large,Canada,Contract,100,11.0,154874.0
+1669,Machine Learning Engineer,Executive,Small,India,Part-time,0,13.0,188767.0
+1670,Data Analyst,Entry,Large,India,Contract,50,7.0,28576.0
+1671,Machine Learning Engineer,Senior,Large,USA,Contract,50,11.0,147268.0
+1672,Machine Learning Engineer,Senior,Small,USA,Part-time,100,14.0,168390.0
+1673,Data Engineer,Mid,Medium,Canada,Part-time,50,4.0,67925.0
+1674,Data Scientist,Mid,Small,Germany,Part-time,100,6.0,73107.0
+1675,Data Analyst,Mid,Small,Australia,Contract,50,6.0,89714.0
+1676,Data Analyst,Senior,Medium,Germany,Full-time,100,5.0,113722.0
+1677,Data Engineer,Mid,Large,Germany,Contract,100,9.0,102307.0
+1678,Business Intelligence Analyst,Entry,Medium,India,Contract,0,9.0,73280.0
+1679,Business Intelligence Analyst,Mid,Large,Australia,Full-time,0,11.0,102883.0
+1680,Data Scientist,Senior,Large,India,Part-time,0,7.0,134708.0
+1681,Data Scientist,Senior,Medium,Australia,Contract,0,2.0,103453.0
+1682,AI Engineer,Executive,Small,UK,Full-time,100,14.0,207197.0
+1683,Data Engineer,Mid,Medium,India,Part-time,50,0.0,47618.0
+1684,Business Intelligence Analyst,Entry,Large,India,Part-time,100,2.0,20782.0
+1685,Machine Learning Engineer,Entry,Medium,India,Contract,0,10.0,74642.0
+1686,Data Analyst,Entry,Medium,Canada,Part-time,0,1.0,22789.0
+1687,Data Scientist,Entry,Large,India,Part-time,50,1.0,29002.0
+1688,Data Analyst,Mid,Small,USA,Full-time,0,13.0,124523.0
+1689,Data Analyst,Entry,Medium,USA,Full-time,100,13.0,86981.0
+1690,AI Engineer,Mid,Large,Australia,Part-time,100,1.0,50007.0
+1691,Business Intelligence Analyst,Senior,Large,UK,Full-time,100,4.0,107575.0
+1692,Data Scientist,Mid,Medium,Canada,Part-time,100,12.0,119574.0
+1693,Data Analyst,Senior,Small,Australia,Contract,100,7.0,96184.0
+1694,Data Scientist,Mid,Medium,USA,Full-time,50,9.0,96294.0
+1695,Machine Learning Engineer,Entry,Small,India,Part-time,100,3.0,30637.0
+1696,AI Engineer,Mid,Small,Canada,Part-time,0,13.0,117770.0
+1697,Machine Learning Engineer,Entry,Small,UK,Full-time,0,7.0,69542.0
+1698,Data Scientist,Mid,Small,Canada,Full-time,0,4.0,70908.0
+1699,Data Scientist,Mid,Medium,India,Contract,0,1.0,61962.0
+1700,Business Intelligence Analyst,Entry,Large,Canada,Part-time,50,4.0,42699.0
+1701,Data Analyst,Entry,Large,UK,Contract,0,9.0,56865.0
+1702,Data Analyst,Mid,Large,Australia,Contract,50,14.0,111376.0
+1703,Machine Learning Engineer,Executive,Large,UK,Contract,0,3.0,149255.0
+1704,AI Engineer,Senior,Large,UK,Full-time,50,7.0,128647.0
+1705,Data Engineer,Senior,Large,USA,Contract,50,0.0,85408.0
+1706,Data Analyst,Entry,Medium,India,Full-time,50,14.0,88163.0
+1707,Business Intelligence Analyst,Senior,Small,USA,Full-time,0,11.0,141283.0
+1708,Machine Learning Engineer,Senior,Large,Australia,Contract,50,4.0,101976.0
+1709,Machine Learning Engineer,Mid,Medium,Germany,Contract,100,13.0,111443.0
+1710,Data Engineer,Executive,Large,Australia,Part-time,100,13.0,198324.0
+1711,Business Intelligence Analyst,Mid,Large,India,Contract,0,10.0,97595.0
+1712,AI Engineer,Senior,Small,Canada,Part-time,100,11.0,139920.0
+1713,Business Intelligence Analyst,Senior,Small,UK,Contract,100,9.0,143271.0
+1714,AI Engineer,Entry,Small,Germany,Contract,100,0.0,27375.0
+1715,Business Intelligence Analyst,Mid,Large,India,Contract,0,9.0,90228.0
+1716,Business Intelligence Analyst,Executive,Large,USA,Contract,0,9.0,176748.0
+1717,Data Scientist,Entry,Large,UK,Part-time,100,3.0,40715.0
+1718,Machine Learning Engineer,Mid,Small,Australia,Part-time,0,7.0,89484.0
+1719,Business Intelligence Analyst,Executive,Medium,USA,Contract,50,0.0,126450.0
+1720,Data Engineer,Mid,Large,India,Contract,100,10.0,109988.0
+1721,Business Intelligence Analyst,Entry,Large,India,Part-time,0,14.0,88269.0
+1722,Data Analyst,Mid,Large,Australia,Full-time,0,1.0,45020.0
+1723,Machine Learning Engineer,Entry,Medium,Germany,Full-time,100,0.0,24717.0
+1724,Data Analyst,Mid,Large,Australia,Full-time,0,10.0,104580.0
+1725,Machine Learning Engineer,Entry,Medium,Canada,Part-time,100,6.0,50117.0
+1726,Data Analyst,Mid,Large,USA,Part-time,0,1.0,54664.0
+1727,Business Intelligence Analyst,Mid,Medium,Germany,Full-time,50,0.0,41099.0
+1728,Business Intelligence Analyst,Senior,Large,UK,Full-time,100,14.0,152637.0
+1729,Data Scientist,Mid,Small,Canada,Contract,50,11.0,103581.0
+1730,Data Engineer,Mid,Small,Germany,Part-time,100,5.0,72744.0
+1731,Data Analyst,Mid,Small,USA,Part-time,0,5.0,84797.0
+1732,AI Engineer,Entry,Small,India,Full-time,50,9.0,62457.0
+1733,Data Scientist,Mid,Large,UK,Full-time,0,1.0,55807.0
+1734,Data Analyst,Entry,Small,Australia,Part-time,100,14.0,97738.0
+1735,Data Analyst,Senior,Medium,USA,Contract,100,0.0,86402.0
+1736,Data Scientist,Entry,Small,Canada,Full-time,100,13.0,79521.0
+1737,Business Intelligence Analyst,Mid,Small,Canada,Part-time,100,9.0,101389.0
+1738,Data Analyst,Mid,Small,India,Part-time,100,2.0,58382.0
+1739,Business Intelligence Analyst,Mid,Large,India,Contract,50,9.0,97692.0
+1740,Data Scientist,Entry,Small,UK,Contract,100,13.0,79353.0
+1741,Business Intelligence Analyst,Mid,Medium,Australia,Full-time,0,4.0,75065.0
+1742,Machine Learning Engineer,Mid,Small,India,Full-time,50,5.0,84934.0
+1743,AI Engineer,Senior,Small,India,Full-time,0,2.0,104425.0
+1744,Data Analyst,Mid,Small,India,Part-time,100,8.0,93111.0
+1745,Data Engineer,Mid,Medium,India,Full-time,0,7.0,98031.0
+1746,AI Engineer,Mid,Small,India,Part-time,50,4.0,75510.0
+1747,Business Intelligence Analyst,Mid,Medium,Germany,Full-time,50,7.0,105083.0
+1748,Data Analyst,Mid,Medium,USA,Contract,50,1.0,53816.0
+1749,Business Intelligence Analyst,Mid,Small,India,Contract,0,9.0,97317.0
+1750,Machine Learning Engineer,Entry,Medium,UK,Part-time,50,5.0,37175.0
+1751,Data Scientist,Entry,Large,Australia,Contract,0,11.0,76341.0
+1752,Data Analyst,Entry,Small,Australia,Part-time,100,7.0,62579.0
+1753,Machine Learning Engineer,Entry,Small,Australia,Part-time,100,10.0,62069.0
+1754,Machine Learning Engineer,Mid,Medium,Germany,Contract,0,5.0,68358.0
+1755,Data Analyst,Mid,Medium,UK,Part-time,50,3.0,73822.0
+1756,Business Intelligence Analyst,Entry,Small,Germany,Contract,0,5.0,43808.0
+1757,Data Engineer,Senior,Large,India,Full-time,0,7.0,119244.0
+1758,Machine Learning Engineer,Entry,Medium,USA,Full-time,0,7.0,64727.0
+1759,AI Engineer,Senior,Medium,Australia,Contract,100,12.0,141811.0
+1760,Machine Learning Engineer,Mid,Large,UK,Contract,0,9.0,101555.0
+1761,Data Engineer,Mid,Large,Australia,Contract,100,1.0,62009.0
+1762,Business Intelligence Analyst,Entry,Small,Germany,Contract,0,7.0,50906.0
+1763,Business Intelligence Analyst,Mid,Large,India,Full-time,100,7.0,72983.0
+1764,AI Engineer,Mid,Small,India,Part-time,0,1.0,49063.0
+1765,Machine Learning Engineer,Senior,Large,USA,Part-time,0,0.0,90446.0
+1766,Business Intelligence Analyst,Mid,Medium,India,Full-time,50,5.0,73644.0
+1767,Data Engineer,Senior,Small,Canada,Part-time,50,12.0,149610.0
+1768,Data Analyst,Entry,Small,USA,Full-time,0,6.0,48142.0
+1769,Data Scientist,Senior,Small,Canada,Part-time,0,13.0,145753.0
+1770,Data Scientist,Mid,Large,India,Contract,0,13.0,116564.0
+1771,Data Scientist,Senior,Medium,Germany,Contract,0,9.0,131851.0
+1772,Machine Learning Engineer,Entry,Small,India,Contract,50,4.0,35104.0
+1773,AI Engineer,Mid,Small,India,Full-time,100,13.0,120190.0
+1774,Business Intelligence Analyst,Mid,Small,India,Full-time,0,9.0,98421.0
+1775,Data Analyst,Senior,Small,India,Part-time,50,7.0,126202.0
+1776,Data Engineer,Mid,Medium,Canada,Part-time,0,10.0,101103.0
+1777,Data Analyst,Senior,Large,Canada,Part-time,0,12.0,149417.0
+1778,Data Engineer,Entry,Medium,India,Full-time,100,11.0,73359.0
+1779,Machine Learning Engineer,Senior,Small,Canada,Part-time,0,8.0,123685.0
+1780,Data Scientist,Senior,Medium,Australia,Contract,0,3.0,88269.0
+1781,Machine Learning Engineer,Senior,Small,UK,Part-time,100,6.0,128366.0
+1782,AI Engineer,Mid,Large,Germany,Contract,100,7.0,79944.0
+1783,AI Engineer,Mid,Large,Australia,Full-time,100,12.0,115410.0
+1784,Data Engineer,Executive,Large,India,Contract,100,5.0,160471.0
+1785,Business Intelligence Analyst,Entry,Small,Germany,Contract,50,1.0,24678.0
+1786,Business Intelligence Analyst,Mid,Medium,UK,Contract,50,6.0,78633.0
+1787,Data Engineer,Mid,Large,Canada,Full-time,50,12.0,108462.0
+1788,AI Engineer,Senior,Small,Australia,Full-time,0,8.0,133888.0
+1789,AI Engineer,Entry,Small,India,Full-time,100,4.0,46727.0
+1790,AI Engineer,Mid,Medium,USA,Full-time,100,14.0,126203.0
+1791,Machine Learning Engineer,Senior,Large,USA,Part-time,50,1.0,88081.0
+1792,AI Engineer,Entry,Small,Germany,Full-time,0,3.0,34449.0
+1793,Data Analyst,Senior,Medium,Canada,Contract,0,2.0,88269.0
+1794,Data Scientist,Entry,Large,USA,Full-time,0,3.0,27291.0
+1795,AI Engineer,Mid,Medium,Germany,Part-time,50,9.0,86532.0
+1796,Data Engineer,Entry,Medium,UK,Part-time,0,6.0,44362.0
+1797,Data Scientist,Entry,Small,Germany,Part-time,0,9.0,73037.0
+1798,Machine Learning Engineer,Senior,Small,Germany,Contract,0,7.0,131015.0
+1799,Data Engineer,Mid,Small,India,Full-time,100,0.0,44988.0
+1800,Data Scientist,Mid,Medium,India,Full-time,50,12.0,106344.0
+1801,Data Engineer,Entry,Small,Germany,Full-time,100,7.0,53430.0
+1802,Machine Learning Engineer,Mid,Medium,Australia,Contract,100,7.0,75693.0
+1803,Data Analyst,Mid,Medium,Germany,Contract,50,11.0,104106.0
+1804,Machine Learning Engineer,Mid,Small,India,Part-time,100,6.0,71438.0
+1805,Machine Learning Engineer,Mid,Large,India,Part-time,0,10.0,109400.0
+1806,Data Engineer,Senior,Large,India,Full-time,0,10.0,144819.0
+1807,Business Intelligence Analyst,Mid,Large,Canada,Contract,0,0.0,49652.0
+1808,AI Engineer,Mid,Medium,India,Contract,0,1.0,51389.0
+1809,AI Engineer,Entry,Medium,USA,Full-time,50,0.0,13079.0
+1810,Data Analyst,Senior,Medium,Germany,Full-time,100,4.0,106295.0
+1811,Data Analyst,Mid,Small,UK,Part-time,100,13.0,118703.0
+1812,AI Engineer,Mid,Medium,Germany,Part-time,0,13.0,123642.0
+1813,Business Intelligence Analyst,Entry,Small,USA,Part-time,0,5.0,43558.0
+1814,AI Engineer,Executive,Small,India,Full-time,100,9.0,184375.0
+1815,Business Intelligence Analyst,Entry,Large,Canada,Full-time,50,8.0,53741.0
+1816,Data Analyst,Senior,Large,UK,Part-time,100,7.0,128881.0
+1817,Data Scientist,Mid,Large,India,Part-time,0,6.0,88269.0
+1818,Data Engineer,Entry,Small,Canada,Contract,0,11.0,80414.0
+1819,Data Analyst,Senior,Small,UK,Contract,50,4.0,114329.0
+1820,Data Analyst,Mid,Small,UK,Part-time,100,13.0,123877.0
+1821,Machine Learning Engineer,Senior,Medium,USA,Part-time,50,14.0,166382.0
+1822,Machine Learning Engineer,Senior,Small,India,Contract,50,2.0,98323.0
+1823,Machine Learning Engineer,Senior,Large,UK,Part-time,0,7.0,127588.0
+1824,Data Engineer,Entry,Large,Australia,Contract,100,12.0,70903.0
+1825,Machine Learning Engineer,Senior,Small,UK,Contract,0,4.0,111648.0
+1826,Business Intelligence Analyst,Mid,Small,Canada,Contract,100,2.0,59955.0
+1827,AI Engineer,Senior,Large,USA,Full-time,0,2.0,92804.0
+1828,Data Scientist,Mid,Small,Germany,Full-time,0,2.0,67610.0
+1829,Data Analyst,Senior,Large,USA,Part-time,100,13.0,146284.0
+1830,Business Intelligence Analyst,Mid,Medium,Germany,Contract,100,5.0,65689.0
+1831,Data Scientist,Mid,Large,India,Full-time,0,0.0,44782.0
+1832,Business Intelligence Analyst,Entry,Medium,India,Part-time,100,10.0,64507.0
+1833,Business Intelligence Analyst,Senior,Small,UK,Part-time,0,3.0,96996.0
+1834,Data Analyst,Mid,Small,Australia,Part-time,100,12.0,116813.0
+1835,AI Engineer,Mid,Medium,India,Part-time,0,7.0,83631.0
+1836,Machine Learning Engineer,Senior,Small,UK,Part-time,0,2.0,94507.0
+1837,Data Engineer,Mid,Medium,USA,Contract,0,4.0,60527.0
+1838,AI Engineer,Entry,Small,India,Part-time,50,1.0,17996.0
+1839,Data Engineer,Mid,Large,USA,Contract,100,7.0,113467.0
+1840,Data Analyst,Mid,Small,USA,Full-time,0,1.0,62745.0
+1841,Data Analyst,Mid,Large,Australia,Part-time,50,10.0,104772.0
+1842,Data Analyst,Entry,Large,India,Full-time,0,12.0,70703.0
+1843,Data Scientist,Entry,Medium,USA,Contract,50,6.0,40662.0
+1844,Data Engineer,Entry,Small,Australia,Contract,0,9.0,64114.0
+1845,AI Engineer,Senior,Medium,Australia,Full-time,0,2.0,96256.0
+1846,AI Engineer,Entry,Small,India,Part-time,50,4.0,38367.0
+1847,Business Intelligence Analyst,Mid,Large,Australia,Part-time,50,7.0,63460.0
+1848,Business Intelligence Analyst,Senior,Large,India,Full-time,100,5.0,110297.0
+1849,Business Intelligence Analyst,Entry,Small,India,Full-time,100,12.0,78573.0
+1850,Data Analyst,Mid,Small,Germany,Full-time,50,9.0,100582.0
+1851,AI Engineer,Senior,Medium,USA,Part-time,100,2.0,95378.0
+1852,Data Engineer,Senior,Small,Canada,Part-time,50,7.0,128500.0
+1853,Data Analyst,Senior,Small,India,Part-time,100,1.0,85305.0
+1854,Data Scientist,Senior,Small,USA,Full-time,0,2.0,94697.0
+1855,Business Intelligence Analyst,Senior,Medium,Australia,Part-time,100,7.0,133774.0
+1856,Data Analyst,Mid,Small,UK,Contract,0,7.0,82222.0
+1857,Data Analyst,Senior,Large,India,Full-time,0,0.0,87933.0
+1858,Data Scientist,Entry,Medium,Australia,Part-time,100,7.0,62849.0
+1859,Machine Learning Engineer,Senior,Medium,Australia,Full-time,50,9.0,136463.0
+1860,AI Engineer,Mid,Large,Australia,Contract,0,1.0,45402.0
+1861,Data Engineer,Mid,Large,Australia,Contract,0,11.0,107901.0
+1862,Machine Learning Engineer,Entry,Large,Australia,Full-time,100,6.0,46940.0
+1863,Business Intelligence Analyst,Senior,Small,India,Full-time,50,5.0,88269.0
+1864,Data Analyst,Entry,Large,Canada,Contract,50,1.0,34054.0
+1865,Data Scientist,Senior,Small,Germany,Full-time,100,4.0,108095.0
+1866,Data Scientist,Senior,Medium,Australia,Contract,50,6.0,120842.0
+1867,AI Engineer,Entry,Medium,Australia,Contract,100,7.0,49544.0
+1868,Machine Learning Engineer,Senior,Large,Germany,Part-time,100,2.0,96074.0
+1869,AI Engineer,Senior,Small,India,Full-time,100,0.0,98732.0
+1870,Data Analyst,Mid,Large,India,Full-time,0,12.0,106850.0
+1871,AI Engineer,Mid,Large,UK,Part-time,0,6.0,88269.0
+1872,Data Engineer,Entry,Small,UK,Contract,0,12.0,71617.0
+1873,Data Scientist,Entry,Large,USA,Full-time,100,4.0,32530.0
+1874,Data Scientist,Mid,Medium,India,Part-time,0,4.0,63333.0
+1875,Business Intelligence Analyst,Senior,Large,UK,Part-time,0,6.0,117234.0
+1876,Business Intelligence Analyst,Entry,Small,India,Full-time,0,0.0,10511.0
+1877,Data Analyst,Senior,Small,USA,Part-time,100,7.0,129546.0
+1878,Data Engineer,Mid,Medium,India,Contract,100,11.0,100082.0
+1879,Machine Learning Engineer,Mid,Small,India,Part-time,100,13.0,121636.0
+1880,AI Engineer,Senior,Small,USA,Contract,0,9.0,133820.0
+1881,Data Analyst,Senior,Medium,UK,Contract,50,14.0,153476.0
+1882,Business Intelligence Analyst,Mid,Large,India,Full-time,0,4.0,88269.0
+1883,AI Engineer,Mid,Medium,Germany,Part-time,0,7.0,76725.0
+1884,Business Intelligence Analyst,Mid,Large,India,Contract,100,9.0,88269.0
+1885,AI Engineer,Entry,Medium,India,Contract,100,14.0,93765.0
+1886,Machine Learning Engineer,Entry,Large,Germany,Part-time,0,9.0,56701.0
+1887,Data Analyst,Mid,Medium,Australia,Contract,0,4.0,68496.0
+1888,AI Engineer,Mid,Large,Germany,Part-time,50,11.0,107270.0
+1889,Data Engineer,Senior,Medium,India,Full-time,50,6.0,120472.0
+1890,Data Scientist,Mid,Large,Germany,Contract,100,9.0,87807.0
+1891,Data Engineer,Mid,Medium,Australia,Contract,50,2.0,65654.0
+1892,Data Engineer,Mid,Small,USA,Part-time,50,1.0,56078.0
+1893,Data Scientist,Senior,Large,Germany,Part-time,100,5.0,112572.0
+1894,Data Engineer,Senior,Medium,Germany,Part-time,50,4.0,117408.0
+1895,AI Engineer,Mid,Large,India,Part-time,0,8.0,99359.0
+1896,AI Engineer,Senior,Large,USA,Contract,50,9.0,133698.0
+1897,AI Engineer,Entry,Medium,Canada,Full-time,100,7.0,29856.0
+1898,Data Scientist,Mid,Large,Canada,Full-time,0,10.0,96724.0
+1899,Data Engineer,Mid,Medium,UK,Full-time,50,2.0,59245.0
+1900,Data Scientist,Mid,Small,Germany,Full-time,0,8.0,90866.0
+1901,AI Engineer,Senior,Large,Germany,Part-time,0,7.0,133951.0
+1902,Data Engineer,Senior,Small,USA,Contract,50,5.0,115096.0
+1903,Data Engineer,Entry,Large,Australia,Contract,50,0.0,14587.0
+1904,Business Intelligence Analyst,Mid,Large,Canada,Contract,100,13.0,88269.0
+1905,Business Intelligence Analyst,Mid,Large,India,Part-time,100,9.0,90046.0
+1906,Machine Learning Engineer,Entry,Medium,USA,Contract,0,12.0,89278.0
+1907,Data Analyst,Entry,Small,Germany,Part-time,100,11.0,72203.0
+1908,Business Intelligence Analyst,Mid,Large,Canada,Contract,0,10.0,105403.0
+1909,Data Scientist,Entry,Medium,UK,Full-time,0,0.0,19828.0
+1910,Business Intelligence Analyst,Entry,Large,India,Part-time,100,11.0,80797.0
+1911,Machine Learning Engineer,Entry,Medium,Canada,Contract,100,5.0,54997.0
+1912,Data Engineer,Mid,Large,UK,Full-time,100,12.0,100038.0
+1913,Machine Learning Engineer,Senior,Small,USA,Full-time,50,2.0,109468.0
+1914,Data Engineer,Mid,Small,India,Full-time,0,2.0,56265.0
+1915,Data Engineer,Executive,Large,UK,Part-time,0,5.0,151598.0
+1916,Data Analyst,Mid,Medium,UK,Part-time,0,12.0,102415.0
+1917,Business Intelligence Analyst,Senior,Large,Germany,Contract,100,2.0,107142.0
+1918,Data Scientist,Senior,Medium,Australia,Full-time,100,12.0,159500.0
+1919,Data Scientist,Mid,Large,Canada,Contract,100,10.0,107148.0
+1920,AI Engineer,Mid,Medium,India,Contract,100,9.0,99306.0
+1921,Data Engineer,Senior,Small,India,Full-time,100,5.0,88269.0
+1922,Data Scientist,Entry,Large,Australia,Contract,50,4.0,88269.0
+1923,Data Analyst,Mid,Small,UK,Part-time,100,3.0,66377.0
+1924,Data Engineer,Mid,Small,Germany,Contract,0,7.0,86058.0
+1925,Data Analyst,Mid,Large,Australia,Full-time,100,7.0,52443.0
+1926,Data Scientist,Entry,Large,Canada,Part-time,0,14.0,97701.0
+1927,Data Scientist,Senior,Medium,India,Part-time,100,11.0,152084.0
+1928,AI Engineer,Mid,Medium,USA,Contract,100,13.0,109383.0
+1929,Data Scientist,Mid,Small,Germany,Contract,0,10.0,91593.0
+1930,Data Engineer,Senior,Medium,India,Part-time,0,6.0,124758.0
+1931,Data Engineer,Mid,Medium,USA,Contract,0,3.0,62026.0
+1932,Data Engineer,Executive,Large,Germany,Full-time,0,1.0,127612.0
+1933,AI Engineer,Mid,Medium,India,Contract,50,14.0,121329.0
+1934,AI Engineer,Entry,Small,India,Contract,0,6.0,41908.0
+1935,Data Scientist,Senior,Medium,Australia,Part-time,100,12.0,146954.0
+1936,Machine Learning Engineer,Mid,Small,Germany,Contract,100,0.0,55185.0
+1937,Machine Learning Engineer,Senior,Large,India,Contract,50,3.0,113174.0
+1938,AI Engineer,Executive,Small,UK,Contract,0,8.0,175496.0
+1939,Data Scientist,Senior,Medium,Germany,Full-time,100,13.0,147928.0
+1940,Machine Learning Engineer,Mid,Large,India,Contract,50,3.0,64280.0
+1941,Data Scientist,Senior,Medium,Australia,Full-time,100,11.0,142681.0
+1942,Data Scientist,Mid,Large,USA,Full-time,50,12.0,104127.0
+1943,Data Scientist,Mid,Large,USA,Full-time,50,2.0,54963.0
+1944,Business Intelligence Analyst,Senior,Medium,India,Full-time,0,9.0,136761.0
+1945,Data Engineer,Entry,Medium,Germany,Part-time,50,9.0,68554.0
+1946,Data Scientist,Senior,Large,Australia,Full-time,100,1.0,94357.0
+1947,Business Intelligence Analyst,Senior,Large,India,Contract,100,13.0,163409.0
+1948,AI Engineer,Senior,Medium,India,Full-time,0,14.0,150987.0
+1949,Machine Learning Engineer,Mid,Small,USA,Contract,0,2.0,51965.0
+1950,Data Engineer,Senior,Medium,Australia,Full-time,50,0.0,87316.0
+1951,Machine Learning Engineer,Mid,Large,UK,Part-time,0,9.0,99046.0
+1952,Data Engineer,Senior,Medium,USA,Full-time,100,7.0,115868.0
+1953,Machine Learning Engineer,Entry,Small,USA,Full-time,100,0.0,28447.0
+1954,Data Engineer,Entry,Medium,UK,Part-time,0,2.0,37513.0
+1955,Machine Learning Engineer,Entry,Large,Germany,Full-time,0,13.0,79378.0
+1956,Machine Learning Engineer,Mid,Medium,India,Contract,0,2.0,65463.0
+1957,Machine Learning Engineer,Mid,Large,Germany,Full-time,50,12.0,118318.0
+1958,Machine Learning Engineer,Senior,Large,Australia,Full-time,50,14.0,163246.0
+1959,AI Engineer,Mid,Medium,Canada,Full-time,100,1.0,46076.0
+1960,Data Scientist,Mid,Large,Canada,Part-time,50,13.0,123023.0
+1961,Data Analyst,Entry,Large,Canada,Full-time,50,7.0,45169.0
+1962,Business Intelligence Analyst,Mid,Small,UK,Full-time,50,9.0,91385.0
+1963,Data Analyst,Mid,Small,USA,Contract,50,2.0,58222.0
+1964,Data Analyst,Entry,Small,Germany,Full-time,100,2.0,37087.0
+1965,Data Engineer,Entry,Small,India,Full-time,0,7.0,50480.0
+1966,Data Scientist,Entry,Large,Canada,Full-time,100,3.0,32777.0
+1967,Data Engineer,Entry,Medium,Germany,Full-time,50,3.0,30362.0
+1968,Data Scientist,Mid,Large,Canada,Contract,0,2.0,50950.0
+1969,Data Scientist,Entry,Large,Canada,Contract,0,10.0,68250.0
+1970,Machine Learning Engineer,Senior,Large,India,Part-time,0,0.0,82818.0
+1971,AI Engineer,Senior,Medium,Australia,Full-time,100,7.0,118600.0
+1972,Machine Learning Engineer,Mid,Small,Australia,Part-time,0,14.0,88269.0
+1973,AI Engineer,Executive,Large,Australia,Part-time,100,0.0,135053.0
+1974,Data Engineer,Mid,Large,UK,Full-time,100,6.0,89328.0
+1975,AI Engineer,Mid,Small,USA,Contract,50,4.0,74333.0
+1976,Data Engineer,Executive,Large,UK,Contract,50,7.0,141255.0
+1977,Data Analyst,Entry,Medium,Germany,Full-time,0,3.0,35907.0
+1978,Data Analyst,Senior,Large,UK,Full-time,0,7.0,131007.0
+1979,AI Engineer,Entry,Large,India,Contract,50,10.0,74241.0
+1980,AI Engineer,Mid,Small,Germany,Full-time,100,10.0,102090.0
+1981,Data Engineer,Entry,Large,USA,Full-time,100,12.0,82305.0
+1982,Machine Learning Engineer,Senior,Large,India,Full-time,50,13.0,88269.0
+1983,Data Engineer,Mid,Medium,USA,Contract,100,5.0,78065.0
+1984,Machine Learning Engineer,Senior,Small,Australia,Part-time,50,13.0,157647.0
+1985,Data Analyst,Mid,Small,Australia,Part-time,50,11.0,103523.0
+1986,Data Scientist,Mid,Medium,UK,Full-time,0,0.0,46037.0
+1987,AI Engineer,Entry,Large,Germany,Contract,0,13.0,75527.0
+1988,Machine Learning Engineer,Mid,Small,Canada,Full-time,50,9.0,103443.0
+1989,Data Engineer,Senior,Small,Canada,Contract,0,7.0,124290.0
+1990,Data Analyst,Mid,Large,Germany,Full-time,50,12.0,100211.0
+1991,Machine Learning Engineer,Senior,Large,USA,Contract,100,13.0,163098.0
+1992,Data Engineer,Senior,Small,India,Contract,100,1.0,104072.0
+1993,AI Engineer,Mid,Large,USA,Part-time,100,5.0,75522.0
+1994,AI Engineer,Mid,Small,Germany,Full-time,100,8.0,99650.0
+1995,Business Intelligence Analyst,Entry,Large,Germany,Part-time,50,0.0,25115.0
+1996,Data Scientist,Entry,Large,India,Part-time,100,5.0,40149.0
+1997,Business Intelligence Analyst,Entry,Medium,UK,Contract,100,7.0,54224.0
+1998,Data Analyst,Mid,Large,UK,Full-time,100,9.0,102716.0
+1999,Machine Learning Engineer,Mid,Medium,India,Contract,100,12.0,88269.0
